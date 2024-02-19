@@ -132,8 +132,30 @@ New-AzResourceGroup -Name $resourceGroupName -Location $Region | Out-Null
 # Create Synapse workspace
 $synapseWorkspace = "synapse$suffix"
 $dataLakeAccountName = "datalake$suffix"
-# $sparkPool = "spark$suffix"
-$sqlDatabaseName = "sql$suffix"
 
 write-host "Creating $synapseWorkspace Synapse Analytics workspace in $resourceGroupName resource group..."
 write-host "(This may take some time!)"
+New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName `
+  -TemplateFile "template.json" `
+  -Mode Complete `
+  -workspaceName $synapseWorkspace `
+  -dataLakeAccountName $dataLakeAccountName `
+  -sqlUser $sqlUser `
+  -sqlPassword $sqlPassword `
+  -uniqueSuffix $suffix `
+  -Force
+
+# Make the current user and the Synapse service principal owners of the data lake blob store
+write-host "Granting permissions on the $dataLakeAccountName storage account..."
+write-host "(you can ignore any warnings!)"
+$subscriptionId = (Get-AzContext).Subscription.Id
+$userName = ((az ad signed-in-user show) | ConvertFrom-JSON).UserPrincipalName
+$id = (Get-AzADServicePrincipal -DisplayName $synapseWorkspace).id
+New-AzRoleAssignment -Objectid $id -RoleDefinitionName "Storage Blob Data Owner" -Scope "/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName/providers/Microsoft.Storage/storageAccounts/$dataLakeAccountName" -ErrorAction SilentlyContinue;
+New-AzRoleAssignment -SignInName $userName -RoleDefinitionName "Storage Blob Data Owner" -Scope "/subscriptions/$subscriptionId/resourceGroups/$resourceGroupName/providers/Microsoft.Storage/storageAccounts/$dataLakeAccountName" -ErrorAction SilentlyContinue;
+
+# # $sparkPool = "spark$suffix"
+# $sqlDatabaseName = "sql$suffix"
+
+# write-host "Creating $synapseWorkspace Synapse Analytics workspace in $resourceGroupName resource group..."
+# write-host "(This may take some time!)"
