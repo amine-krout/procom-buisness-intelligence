@@ -148,3 +148,24 @@ New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName `
   -sqlPassword $sqlPassword `
   -uniqueSuffix $suffix `
   -Force
+
+# Create Azure SQL Server and Serverless SQL Database
+$serverName = "sqlserver-$suffix"
+$databaseName = "sqldatabase-$suffix"
+
+Write-Host "Creating Azure SQL Server $serverName in $resourceGroupName resource group..."
+New-AzSqlServer -ResourceGroupName $resourceGroupName `
+                -ServerName $serverName `
+                -Location $Region `
+                -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force))
+
+Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
+New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
+                  -ServerName $serverName `
+                  -DatabaseName $databaseName `
+                  -Edition "Hyperscale" `
+                  -ComputeModel "Serverless" `
+                  -AutoPauseDelay 60 `
+                  -SampleName "AdventureWorksLT" `
+                  -RequestedServiceObjectiveName "HS_Gen5_1" `
+                  -CatalogCollation "SQL_Latin1_General_CP1_CI_AS"
