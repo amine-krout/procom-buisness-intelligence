@@ -138,3 +138,13 @@ $sqlDatabaseName = "sql$suffix"
 
 write-host "Creating $synapseWorkspace Synapse Analytics workspace in $resourceGroupName resource group..."
 write-host "(This may take some time!)"
+
+New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName `
+  -TemplateFile "setup.json" `
+  -Mode Complete `
+  -workspaceName $synapseWorkspace `
+  -dataLakeAccountName $dataLakeAccountName `
+  -sqlUser $sqlUser `
+  -sqlPassword $sqlPassword `
+  -uniqueSuffix $suffix `
+  -Force
