@@ -166,6 +166,5 @@ New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
                   -Edition "Hyperscale" `
                   -ComputeModel "Serverless" `
                   -AutoPauseDelay 60 `
-                  -SampleName "AdventureWorksLT" `
-                  -RequestedServiceObjectiveName "HS_Gen5_1" `
-                  -CatalogCollation "SQL_Latin1_General_CP1_CI_AS"
+
+# New-AzSqlDatabase -ResourceGroupName $resourceGroupName -ServerName $serverName -DatabaseName $databaseName -Edition "GeneralPurpose" -Vcore 2 -ComputeGeneration "Gen5" -ComputeModel Serverless
