@@ -8,7 +8,7 @@
         "workspaces_procomsynapse_name": {
             "value": null
         },
-        "storageAccounts_procomstorage_externalid": {
+        "storageAccounts_procomstorage_name": {
             "value": null
         }
     }
