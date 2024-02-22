@@ -166,7 +166,7 @@ New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
                   -Edition "Hyperscale" `
                   -ComputeModel "Serverless" `
                   -AutoPauseDelay 60 `
-                  -Vcore 2 
+                  -Vcore 2 `
                   -ComputeGeneration "Gen5"
 
 # New-AzSqlDatabase -ResourceGroupName $resourceGroupName -ServerName $serverName -DatabaseName $databaseName -Edition "GeneralPurpose" -Vcore 2 -ComputeGeneration "Gen5" -ComputeModel Serverless
@@ -200,3 +200,6 @@ Get-ChildItem "./data/*.csv" -File | ForEach-Object {
     Set-AzStorageBlobContent -File $_.FullName -Container $containerName -Blob $blobPath -Context $storageContext -Force
     Write-Host "Uploaded $file successfully."
 }
+
+$linkedServiceName = "SqlServer"
+New-AzSynapseLinkedService -Name $linkedServiceName -WorkspaceName $workspaceName -DefinitionFile "linkedServiceDefinition.json"
