@@ -167,18 +167,36 @@ New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
                   -ComputeModel "Serverless" `
                   -AutoPauseDelay 60 `
                   -Vcore 2 
-                  -ComputeGeneration "Gen5" `
+                  -ComputeGeneration "Gen5"
 
 # New-AzSqlDatabase -ResourceGroupName $resourceGroupName -ServerName $serverName -DatabaseName $databaseName -Edition "GeneralPurpose" -Vcore 2 -ComputeGeneration "Gen5" -ComputeModel Serverless
 
 # Upload files
 write-host "Loading data..."
+
+# Define container name
+$containerName = "container1"  # Replace with the desired container name
+
+# Retrieve storage account and context
 $storageAccount = Get-AzStorageAccount -ResourceGroupName $resourceGroupName -Name $dataLakeAccountName
 $storageContext = $storageAccount.Context
-Get-ChildItem "./data/*.csv" -File | Foreach-Object {
-    write-host ""
+
+# Check if the container exists
+if (!(Get-AzStorageContainer -Name $containerName -Context $storageContext)) {
+    # Container doesn't exist, create it
+    Write-Host "Container '$containerName' does not exist, creating..."
+    New-AzStorageContainer -Name $containerName -Context $storageContext
+    Write-Host "Container '$containerName' created successfully."
+}
+
+# Define the base blob path
+$baseBlobPath = "données_pesticides/données_pesticides"
+
+# Upload CSV files
+Get-ChildItem "./data/*.csv" -File | ForEach-Object {
     $file = $_.Name
-    Write-Host $file
-    $blobPath = "données_pesticides/données_pesticides/$file"
-    Set-AzStorageBlobContent -File $_.FullName -Container "container1" -Blob $blobPath -Context $storageContext
+    Write-Host "Uploading $file to container $containerName..."
+    $blobPath = "$baseBlobPath/$file"
+    Set-AzStorageBlobContent -File $_.FullName -Container $containerName -Blob $blobPath -Context $storageContext -Force
+    Write-Host "Uploaded $file successfully."
 }
