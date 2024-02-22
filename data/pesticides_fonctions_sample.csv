@@ -1,0 +1,25 @@
+CODE_FONCTION,LIBELLE CODE_FONCTION
+A,Acaricide
+B,Biocide
+BF,"Biocide, Fongicide"
+F,Fongicide
+FA,"Fongicide, Acaricide"
+FHM,"Fongicide, Herbicide, Mollusticide"
+FN,"Fongicide, NÃ©maticide"
+G,Graminicide
+H,Herbicide
+I,Insecticide
+IA,"Insecticide, Acaricide"
+IAFH,"Insecticide, Acaricide, Fongicide, Herbicide"
+IAM,"Insecticide, Acaricide, Mollusticide"
+IAN,"Insecticide, Acaricide, NÃ©maticide"
+IM,"Insecticide, Mollusticide"
+IN,"Insecticide, NÃ©maticide"
+Ireg,"Insecticide, RÃ©gulateur de croissance"
+M,Mollusticide
+N,NÃ©maticide
+R,Rodenticide
+Reg,RÃ©gulateur de croissance
+RepO,RÃ©pulsif
+HFNI,"Herbicide, Fongicide, NÃ©maticide, Insecticide"
+HG,"Herbicide, Graminicide"

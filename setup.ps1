@@ -166,5 +166,19 @@ New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
                   -Edition "Hyperscale" `
                   -ComputeModel "Serverless" `
                   -AutoPauseDelay 60 `
+                  -Vcore 2 
+                  -ComputeGeneration "Gen5" `
 
 # New-AzSqlDatabase -ResourceGroupName $resourceGroupName -ServerName $serverName -DatabaseName $databaseName -Edition "GeneralPurpose" -Vcore 2 -ComputeGeneration "Gen5" -ComputeModel Serverless
+
+# Upload files
+write-host "Loading data..."
+$storageAccount = Get-AzStorageAccount -ResourceGroupName $resourceGroupName -Name $dataLakeAccountName
+$storageContext = $storageAccount.Context
+Get-ChildItem "./data/*.csv" -File | Foreach-Object {
+    write-host ""
+    $file = $_.Name
+    Write-Host $file
+    $blobPath = "données_pesticides/données_pesticides/$file"
+    Set-AzStorageBlobContent -File $_.FullName -Container "container1" -Blob $blobPath -Context $storageContext
+}
