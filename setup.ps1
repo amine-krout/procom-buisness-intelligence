@@ -160,22 +160,15 @@ New-AzSqlServer -ResourceGroupName $resourceGroupName `
                 -Location $Region `
                 -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force))
 
-# Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
-# New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
-#                   -ServerName $serverName `
-#                   -DatabaseName $databaseName `
-#                   -Edition "Hyperscale" `
-#                   -ComputeModel "Serverless" `
-#                   -AutoPauseDelay 60 `
-#                   -Vcore 2 `
-#                   -ComputeGeneration "Gen5"
+
 
 # documentation : https://learn.microsoft.com/fr-fr/powershell/module/az.sql/new-azsqldatabase?view=azps-11.3.0
+# Create a storage account
 Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
 New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
                   -ServerName $serverName `
                   -DatabaseName $databaseName `
-                  -Edition "General Purpose " `
+                  -Edition "GeneralPurpose" `
                   -ComputeModel "Serverless" `
                   -AutoPauseDelay 60 `
                   -Vcore 1 `
@@ -213,5 +206,5 @@ Get-ChildItem "./data/*.csv" -File | ForEach-Object {
     Write-Host "Uploaded $file successfully."
 }
 
-$linkedServiceName = "SqlServer"
-New-AzSynapseLinkedService -Name $linkedServiceName -WorkspaceName $synapseWorkspace -DefinitionFile "linkedServiceDefinition.json"
+# $linkedServiceName = "SqlServer"
+# New-AzSynapseLinkedService -Name $linkedServiceName -WorkspaceName $synapseWorkspace -DefinitionFile "linkedServiceDefinition.json"
