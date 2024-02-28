@@ -214,4 +214,4 @@ Get-ChildItem "./data/*.csv" -File | ForEach-Object {
 }
 
 $linkedServiceName = "SqlServer"
-New-AzSynapseLinkedService -Name $linkedServiceName -WorkspaceName $workspaceName -DefinitionFile "linkedServiceDefinition.json"
+New-AzSynapseLinkedService -Name $linkedServiceName -WorkspaceName $synapseWorkspace -DefinitionFile "linkedServiceDefinition.json"
