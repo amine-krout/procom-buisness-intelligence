@@ -1,12 +1,13 @@
-Clear-Host
-write-host "Starting script at $(Get-Date)"
-Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
-Install-Module -Name Az.Synapse -Force
+Clear-Host # Clear console host screen
+write-host "Starting script at $(Get-Date)" 
+Set-PSRepository -Name PSGallery -InstallationPolicy Trusted # Sets the PowerShell repository named "PSGallery" to have a trusted installation policy. No further confirmation will be demanded when installing modules from this repository.
+Install-Module -Name Az.Synapse -Force 
 
 # Handle cases where the user has multiple subscriptions
-$subs = Get-AzSubscription | Select-Object
-if($subs.GetType().IsArray -and $subs.length -gt 1){
+$subs = Get-AzSubscription | Select-Object # select all subscriptions and store them in variable subs 
+if($subs.GetType().IsArray -and $subs.length -gt 1){ # check if subs have more than one subscription
     Write-Host "You have multiple Azure subscriptions - please select the one you want to use:"
+    # Subscription selection 
     for($i = 0; $i -lt $subs.length; $i++)
     {
             Write-Host "[$($i)]: $($subs[$i].Name) (ID = $($subs[$i].Id))"
@@ -75,7 +76,7 @@ foreach ($provider in $provider_list){
     Write-Host "$provider : $status"
 }
 
-# Generate unique random suffix
+# Generate unique random suffix 
 [string]$suffix =  -join ((48..57) + (97..122) | Get-Random -Count 7 | % {[char]$_})
 Write-Host "Your randomly-generated suffix for Azure resources is $suffix"
 $resourceGroupName = "procom-business-intelligence-$suffix"
@@ -84,7 +85,7 @@ $resourceGroupName = "procom-business-intelligence-$suffix"
 Write-Host "Finding an available region. This may take several minutes...";
 $delay = 0, 30, 60, 90, 120 | Get-Random
 Start-Sleep -Seconds $delay # random delay to stagger requests from multi-student classes
-$preferred_list = "australiaeast","centralus","southcentralus","eastus2","northeurope","southeastasia","uksouth","westeurope","westus","westus2"
+$preferred_list = "australiaeast","centralus","southcentralus","eastus2","northeurope","southeastasia","uksouth","westeurope","westus","westus2" # we can keep it to one region if we want to - the only condition is that the location must be a provider for the list of providers we are using
 $locations = Get-AzLocation | Where-Object {
     $_.Providers -contains "Microsoft.Synapse" -and
     $_.Providers -contains "Microsoft.Sql" -and
@@ -159,17 +160,28 @@ New-AzSqlServer -ResourceGroupName $resourceGroupName `
                 -Location $Region `
                 -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force))
 
+# Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
+# New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
+#                   -ServerName $serverName `
+#                   -DatabaseName $databaseName `
+#                   -Edition "Hyperscale" `
+#                   -ComputeModel "Serverless" `
+#                   -AutoPauseDelay 60 `
+#                   -Vcore 2 `
+#                   -ComputeGeneration "Gen5"
+
+# documentation : https://learn.microsoft.com/fr-fr/powershell/module/az.sql/new-azsqldatabase?view=azps-11.3.0
 Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
 New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
                   -ServerName $serverName `
                   -DatabaseName $databaseName `
-                  -Edition "Hyperscale" `
+                  -Edition "General Purpose " `
                   -ComputeModel "Serverless" `
                   -AutoPauseDelay 60 `
-                  -Vcore 2 `
+                  -Vcore 1 `
                   -ComputeGeneration "Gen5"
 
-# New-AzSqlDatabase -ResourceGroupName $resourceGroupName -ServerName $serverName -DatabaseName $databaseName -Edition "GeneralPurpose" -Vcore 2 -ComputeGeneration "Gen5" -ComputeModel Serverless
+
 
 # Upload files
 write-host "Loading data..."
