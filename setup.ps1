@@ -161,7 +161,9 @@ Write-Host "Creating Azure SQL Server $serverName in $resourceGroupName resource
 New-AzSqlServer -ResourceGroupName $resourceGroupName `
                 -ServerName $serverName `
                 -Location $Region `
-                -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force))
+                -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force)) `
+                -PublicNetworkAccess "Enabled"
+
 
 
 
