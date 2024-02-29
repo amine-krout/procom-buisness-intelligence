@@ -150,29 +150,29 @@ New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName `
   -uniqueSuffix $suffix `
   -Force
 
-# Create Azure SQL Server and Serverless SQL Database
-$serverName = "sqlserver-$suffix"
-$databaseName = "sqldatabase-$suffix"
+# # Create Azure SQL Server and Serverless SQL Database
+# $serverName = "sqlserver-$suffix"
+# $databaseName = "sqldatabase-$suffix"
 
-Write-Host "Creating Azure SQL Server $serverName in $resourceGroupName resource group..."
-New-AzSqlServer -ResourceGroupName $resourceGroupName `
-                -ServerName $serverName `
-                -Location $Region `
-                -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force))
+# Write-Host "Creating Azure SQL Server $serverName in $resourceGroupName resource group..."
+# New-AzSqlServer -ResourceGroupName $resourceGroupName `
+#                 -ServerName $serverName `
+#                 -Location $Region `
+#                 -SqlAdministratorCredentials (New-Object -TypeName PSCredential -ArgumentList $sqlUser, ($SqlPassword | ConvertTo-SecureString -AsPlainText -Force))
 
 
 
-# documentation : https://learn.microsoft.com/fr-fr/powershell/module/az.sql/new-azsqldatabase?view=azps-11.3.0
-# Create a storage account
-Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
-New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
-                  -ServerName $serverName `
-                  -DatabaseName $databaseName `
-                  -Edition "GeneralPurpose" `
-                  -ComputeModel "Serverless" `
-                  -AutoPauseDelay 60 `
-                  -Vcore 1 `
-                  -ComputeGeneration "Gen5"
+# # documentation : https://learn.microsoft.com/fr-fr/powershell/module/az.sql/new-azsqldatabase?view=azps-11.3.0
+# # Create a storage account
+# Write-Host "Creating Serverless SQL Database $databaseName in $serverName server..."
+# New-AzSqlDatabase -ResourceGroupName $resourceGroupName `
+#                   -ServerName $serverName `
+#                   -DatabaseName $databaseName `
+#                   -Edition "GeneralPurpose" `
+#                   -ComputeModel "Serverless" `
+#                   -AutoPauseDelay 60 `
+#                   -Vcore 1 `
+#                   -ComputeGeneration "Gen5"
 
 
 
