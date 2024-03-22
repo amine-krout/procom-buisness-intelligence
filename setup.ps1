@@ -211,5 +211,3 @@ Get-ChildItem "./data/*.csv" -File | ForEach-Object {
     Write-Host "Uploaded $file successfully."
 }
 
-# $linkedServiceName = "SqlServer"
-# New-AzSynapseLinkedService -Name $linkedServiceName -WorkspaceName $synapseWorkspace -DefinitionFile "linkedServiceDefinition.json"
