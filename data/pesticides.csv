@@ -1,0 +1,1004 @@
+CD_PARAMETRE;LB_PARAMETRE;NOM_PARAM2;CODE_FAMILLE;CODE_FONCTION;STATUT;METABOLITE;PARENT;NOM_PARENT;CODE_CAS;DATE_NA_USAGE;FORMULEB;NORME_DCE
+1197;Heptachlore;Heptachlore;Organochlorés;I;PNA;;;;76-44-8;;C10H5Cl7;0,03
+1748;Heptachlore époxyde cis;Heptachlore époxyde cis;Organochlorés;I;PNA;;;;1024-57-3;;;0,03
+1749;Heptachlore époxyde trans;Heptachlore époxyde trans;Organochlorés;I;PNA;;;;28044-83-9;;;0,03
+1103;Aldrine;Aldrine;Organochlorés;I;PNA;;;;309-00-2;10/04/1994;C12H8Cl6;0,03
+1173;Dieldrine;Dieldrine;Organochlorés;I;PNA;;;;60-57-1;10/04/1994;C12H8Cl6O;0,03
+1083;Chlorpyriphos-éthyl;Chlorpyriphos-éthyl;Organophosphorés;I;PA;;;;2921-88-2;;C9H11Cl3NO3PS;0,1
+1475;Code gelé en 1998 (Chlorpyrifos);;Organophosphorés;;;;;;;;;0,1
+1092;Prosulfocarbe;Prosulfocarbe;Carbamates;H;PA;;;;52888-80-9;;C14H21NOS;0,1
+1093;Thiodicarbe;Thiodicarbe;Carbamates;IM;PNA;;;;59669-26-0;11/20/2008;C10H18N4O4S3;0,1
+1094;Lambda-cyhalothrine;Lambda-cyhalothrine;Divers (organiques);I;PA;;;;91465-08-6;;C23H19ClF3NO3;0,1
+1100;Acéphate;Acéphate;Organophosphorés;I;PNA;;;;30560-19-1;9/26/2004;C4H10NO3PS;0,1
+1101;Alachlore;Alachlore;Divers (organiques);H;PNA;;;;15972-60-8;6/18/2008;C14H20ClNO2;0,1
+1102;Aldicarbe;Aldicarbe;Carbamates;IN;PNA;;;;116-06-3;12/31/2007;C7H14N2O2S;0,1
+1104;Amétryne;Amétryne;Triazines et métabolites;H;PNA;;;;834-12-8;10/01/2003;C9H17N5S;0,1
+1105;Aminotriazole;Aminotriazole;Azoles;H;PA;;;;61-82-5;;C2H4N4;0,1
+1107;Atrazine;Atrazine;Triazines et métabolites;H;PNA;;;;1912-24-9;10/01/2003;C8H14ClN5;0,1
+1108;Atrazine déséthyl;Atrazine déséthyl;Triazines et métabolites;H;PNA;oui;1107;Atrazine;6190-65-4;10/01/2003;C6H10ClN5;0,1
+1109;Atrazine déisopropyl;Simazine Déséthyl;Triazines et métabolites;H;PNA;oui;1107;Atrazine;1007-28-9;10/01/2003;C5H8ClN5;0,1
+1298;(Code gelé en 2005 Simazine déséthyl);Atrazine déisopropyl;Triazines et métabolites;;;oui;1263;Simazine;1007-28-9;;C5H8ClN5;0,1
+1110;Azinphos éthyl;Azinphos éthyl;Organophosphorés;IA;PNA;;;;2642-71-9;1/13/1996;C12H16N3O3PS2;0,1
+1111;Azinphos méthyl;Azinphos méthyl;Organophosphorés;IA;PNA;;;;86-50-0;12/31/2007;C10H12N3O3PS2;0,1
+1112;Benfluraline;Benfluraline;Divers (organiques);H;PA;;;;1861-40-1;;C13H16F3N3O4;0,1
+1113;Bentazone;Bentazone;Diazines;H;PA;;;;25057-89-0;;C10H12N2O3S;0,1
+1119;Bifénox;Bifénox;Divers (organiques);H;PA;;;;42576-02-3;;C14H9Cl2NO5;0,1
+1120;Bifenthrine;Bifenthrine;Pyréthrinoïdes;I;PNA;;;;82657-04-3;11/01/2013;C23H22ClF3O2;0,1
+1123;Bromophos éthyl;Bromophos éthyl;Organophosphorés;I;PNA;;;;4824-78-6;01/01/1991;C10H12BrCl2O3PS;0,1
+1124;Bromophos méthyl;Bromophos méthyl;Organophosphorés;I;PNA;;;;2104-96-3;01/01/1991;C8H8BrCl2O3PS;0,1
+1125;Bromoxynil;Bromoxynil;Divers (organiques);H;PA;;;;1689-84-5;;C7H3Br2NO;0,1
+1126;Butraline;Butraline;Divers (organiques);H;PNA;;;;33629-47-9;4/20/2010;C14H21N3O4;0,1
+1127;Captafol;Captafol;Divers (organiques);F;PNA;;;;01/06/2425;11/01/1989;C10H9Cl4NO2S;0,1
+1128;Captane;Captane;Divers (organiques);F;PNA;;;;133-06-2;12/31/2009;C9H8Cl3NO2S;0,1
+1129;Carbendazime;Carbendazime;Carbamates;F;PNA;;;;10605-21-7;12/31/2009;C9H9N3O2;0,1
+1130;Carbofuran;Carbofuran;Carbamates;IN;PNA;;;;1563-66-2;12/13/2008;C12H15NO3;0,1
+1131;Carbophénothion;Carbophénothion;Organophosphorés;I;PNA;;;;786-19-6;7/25/2003;C11H16ClO2PS3;0,1
+1132;Chlordane;Chlordane;Organochlorés;I;PNA;;;;57-74-9;01/01/1973;C10H6Cl8;0,1
+1756;(Code gelé en 2011 Chlordane alpha);Chlordane alpha;Organochlorés;I;PNA;;;;;;C10H6Cl8;0,1
+1757;Chlordane béta;Chlordane béta;Organochlorés;I;PNA;;;;5103-74-2;;C10H6Cl8;0,1
+1758;Chlordane gamma;Chlordane gamma;Organochlorés;I;PNA;;;;12789-03-6;;C10H6Cl8;0,1
+7010;Chlordane alpha;;Organochlorés;I;PNA;;;;5103-71-9;;;0,1
+1133;Chloridazone;Chloridazone;Diazines;H;PA;;;;1698-60-8;;C10H8ClN3O;0,1
+1134;Chlorméphos;Chlorméphos;Organophosphorés;I;PNA;;;;24934-91-6;12/31/2007;C5H12ClO2PS2;0,1
+1136;Chlortoluron;Chlortoluron;Urées;H;PA;;;;15545-48-9;;C10H13ClN2O;0,1
+1137;Cyanazine;Cyanazine;Triazines et métabolites;H;PNA;;;;21725-46-2;9/30/2003;C9H13ClN6;0,1
+1138;Cyhalothrine;Cyhalothrine;Pyréthrinoïdes;I;PNA;;;;68085-85-8;03/12/1995;C23H19ClF3NO3;0,1
+1139;Cymoxanil;curzate;Divers (organiques);F;PA;;;;57966-95-7;;C7H10N4O3;0,1
+1140;Cyperméthrine;Cyperméthrine;Pyréthrinoïdes;I;PA;;;;52315-07-8;;C22H19Cl2NO3;0,1
+1141;2,4-D;2,4-D;Divers (organiques);H;PA;;;;94-75-7;;C8H6Cl2O3;0,1
+1142;2,4-DB;2,4-DB;Divers (organiques);H;PA;;;;94-82-6;;C10H10Cl2O3;0,1
+1149;Deltaméthrine;Deltaméthrine;Pyréthrinoïdes;I;PA;;;;52918-63-5;;C22H19Br2NO3;0,1
+1154;Déméton-S-méthylsulfone;Déméton-S-méthylsulfone;Organophosphorés;I;PNA;;;;17040-19-6;01/01/1996;C6H15O5PS2;0,1
+1155;Desmétryne;Desmétryne;Triazines et métabolites;H;PNA;;;;1014-69-3;12/31/2003;C8H15N5S;0,1
+1156;Diallate;Diallate;Carbamates;H;PNA;;;;2303-16-4;1995;C10H17Cl2NOS;0,1
+1157;Diazinon;Diazinon;Organophosphorés;IA;PNA;;;;333-41-5;12/01/2008;C12H21N2O3PS;0,1
+1159;Dichlorofenthion;Dichlorofenthion;Organochlorés;I;PNA;;;;97-17-6;12/31/2003;C10H13Cl2O3PS;0,1
+1169;Dichlorprop;Dichlorprop;Divers (organiques);H;PNA;;;;120-36-5;12/31/2003;C9H8Cl2O3;0,1
+2544;Dichlorprop-P;;Divers (organiques);H;PA;;;;15165-67-0;;C9H8Cl2O3;0,1
+1170;Dichlorvos;Dichlorvos;Organophosphorés;IA;PNA;;;;62-73-7;12/01/2008;C4H7Cl2O4P;0,1
+1171;Dic(h)lofop-méthyl;Diclofop-méthyl;Divers (organiques);H;PNA;;;;51338-27-3;12/31/2011;C16H14Cl2O4;0,1
+1172;Dicofol;Dicofol;Organochlorés;IA;PNA;;;;115-32-2;3/18/2010;C14H9Cl5O;0,1
+1175;Diméthoate;Diméthoate;Organophosphorés;IA;PA;;;;60-51-5;;C5H12NO3PS2;0,1
+1176;Dinoterbe;Dinoterbe;Divers (organiques);H;PNA;;;;1420-07-1;10/01/1997;C10H12N2O5;0,1
+1177;Diuron;Diuron;Urées;H;PNA;;;;330-54-1;12/13/2008;C9H10Cl2N2O;0,1
+1180;Endothion;Endothion;Organophosphorés;I;PNA;;;;03/04/2778;;C9H13O6PS;0,1
+1182;EPTC;EPTC(ethyl-dipropyl-thiocarbamate);Carbamates;H;PNA;;;;759-94-4;12/31/2003;C9H19NOS;0,1
+1174;(Code gelé Ethion);Ethion;Organophosphorés;IA;PNA;;;;563-12-2;12/31/2003;C9H22O4P2S4;0,1
+1183;Ethion;Ethion;Organophosphorés;IA;PNA;;;;563-12-2;12/31/2003;C9H22O4P2S4;0,1
+1184;Ethofumésate;Ethofumésate;Divers (organiques);H;PA;;;;26225-79-6;;C13H18O5S;0,1
+1185;Fénarimol;Fénarimol;Divers (organiques);F;PNA;;;;60168-88-9;12/31/2008;C17H12Cl2N2O;0,1
+1186;Fenchlorphos;Fenchlorphos;Organophosphorés;I;PNA;;;;299-84-3;;C8H8Cl3O3PS;0,1
+1187;Fénitrothion;Fénitrothion;Organophosphorés;I;PNA;;;;122-14-5;11/20/2008;C9H12NO5PS;0,1
+1188;Fenpropathrine;Fenpropathrine;Pyréthrinoïdes;IA;PNA;;;;64257-84-7;12/31/2008;C22H23NO3;0,1
+1189;Fenpropimorphe;Fenpropimorphe;Divers (organiques);F;PA;;;;67564-91-4;;C20H33NO;0,1
+1190;Fenthion;Fenthion;Organophosphorés;I;PNA;;;;55-38-9;08/01/2005;C10H15O3PS2;0,1
+1192;Folpel;Folpel;Divers (organiques);F;PA;;;;133-07-3;;C9H4Cl3NO2S;0,1
+1193;Fluvalinate-tau;Fluvalinate-tau;Pyréthrinoïdes;IA;PA;;;;102851-06-9;;C26H22ClF3N2O3;0,1
+1194;Flusilazole;Flusilazole;Triazines et métabolites;F;PNA;;;;85509-19-9;;C16H15F2N3Si;0,1
+1198;Heptachlore époxyde cis+trans;Heptachlore époxyde cis+trans;Organochlorés;I;PNA;;;;;;;0,1
+1205;Ioxynil;Ioxynil;Divers (organiques);H;PA;;;;1689-83-4;;C7H3I2NO;0,1
+1206;Iprodione;Iprodione;Azoles;F;PA;;;;36734-19-7;;C13H13Cl2N3O3;0,1
+1208;Isoproturon;Isoproturon;Urées;H;PA;;;;34123-59-6;;C12H18N2O;0,1
+1209;Linuron;Linuron;Urées;H;PA;;;;330-55-2;;C9H10Cl2N2O2;0,1
+1210;Malathion;Malathion;Organophosphorés;IA;PA;;;;121-75-5;12/01/2008;C10H19O6PS2;0,1
+1211;Mancozèbe;Mancozèbe;Carbamates;F;PA;;;;07/01/8018;;;0,1
+1212;2,4-MCPA;2,4-MCPA;Divers (organiques);H;PA;;;;94-74-6;;C9H9ClO3;0,1
+1213;2,4-MCPB;2,4-MCPB;Divers (organiques);H;PA;;;;94-81-5;;C11H13ClO3;0,1
+1214;Mécoprop;Mécoprop(MCPP);Divers (organiques);H;PA;;;;93-65-2;;C10H11ClO3;0,1
+1215;Métamitrone;Métamitrone;Triazines et métabolites;H;PA;;;;41394-05-2;;C10H10N4O;0,1
+1216;Méthabenzthiazuron;Méthabenzthiazuron;Urées;H;PNA;;;;18691-97-9;12/31/2009;C10H11N3OS;0,1
+1217;Méthidathion;Méthidathion;Organophosphorés;IA;PNA;;;;950-37-8;12/31/2007;C6H11N2O4PS3;0,1
+1218;Méthomyl;Méthomyl;Carbamates;IA;PA;;;;16752-77-5;;C5H10N2O2S;0,1
+1219;Méthoprotryne;Méthoprotryne;Triazines et métabolites;H;PNA;;;;841-06-5;;C11H21N5OS;0,1
+1220;Méthyl trithion;Méthyl Trithion;Organophosphorés;IA;PNA;;;;953-17-3;;C9H12ClO2PS3;0,1
+1221;Métolachlore;Métolachlore;Organochlorés;H;PNA;;;;51218-45-2;12/31/2003;C15H22ClNO2;0,1
+1222;Métoxuron;Métoxuron;Urées;H;PNA;;;;19937-59-8;12/31/2007;C10H13ClN2O2;0,1
+1225;Métribuzine;Métribuzine;Triazines et métabolites;H;PA;;;;21087-64-9;;C8H14N4OS;0,1
+1226;Mévinphos;Mévinphos;Organophosphorés;IA;PNA;;;;7786-34-7;12/31/2003;C7H13O6P;0,1
+1227;Monolinuron;Monolinuron;Urées;H;PNA;;;;1746-81-2;09/09/2001;C9H11ClN2O2;0,1
+1228;Monuron;Monuron;Urées;H;PNA;;;;150-68-5;;C9H11ClN2O;0,1
+1229;Nitrofène;Nitrofène;Benzène et dérivés;H;PNA;;;;1836-75-5;;C12H7Cl2NO3;0,1
+1230;Ométhoate;Ométhoate;Organophosphorés;IA;PNA;;;;1113-02-6;12/31/2003;C5H12NO4PS;0,1
+1231;Oxydéméton-méthyl;Oxydéméton-méthyl;Organophosphorés;I;PA;;;;301-12-2;;C6H15O4PS2;0,1
+1234;Pendiméthaline;Pendiméthaline;Divers (organiques);H;PA;;;;40487-42-1;;C13H19N3O4;0,1
+1236;Phenmédiphame;Phenmédiphame;Carbamates;H;PA;;;;13684-63-4;;C16H16N2O4;0,1
+1237;Phosalone;Phosalone;Organophosphorés;IA;PNA;;;;2310-17-0;6/22/2008;C12H15ClNO4PS2;0,1
+1238;Phosphamidon;Phosphamidon;Organophosphorés;IA;PNA;;;;13171-21-6;12/31/2003;C10H19ClNO5P;0,1
+1253;Prochloraz;Prochloraz;Azoles;F;PA;;;;67747-09-5;;C15H16Cl3N3O2;0,1
+1254;Prométryne;Prométryne;Triazines et métabolites;H;PNA;;;;7287-19-6;12/31/2007;C10H19N5S;0,1
+1255;Propargite;Propargite;Organophosphorés;IA;PNA;;;;2312-35-8;12/31/2011;C19H26O4S;0,1
+1256;Propazine;Propazine;Triazines et métabolites;H;PNA;;;;139-40-2;;C9H16ClN5;0,1
+1257;Propiconazole;Propiconazole;Azoles;F;PA;;;;60207-90-1;;C15H17Cl2N3O2;0,1
+1258;Pyrazophos;Pyrazophos;Organophosphorés;F;PNA;;;;13457-18-6;09/09/2001;C14H20N3O5PS;0,1
+1259;Pyridate;Pyridate;Divers (organiques);H;PA;;;;55512-33-9;;C19H23ClN2O2S;0,1
+1260;Pyrimiphos-éthyl;Pyrimiphos-éthyl;Organophosphorés;I;PNA;;;;23505-41-1;;C13H24N3O3PS;0,1
+1261;Pyrimiphos-méthyl;Pyrimiphos-méthyl;Organophosphorés;IA;PA;;;;29232-93-7;;C11H20N3O3PS;0,1
+1262;Secbuméton;Secbuméton;Triazines et métabolites;H;PNA;;;;26259-45-0;;C10H19N5O;0,1
+1263;Simazine;Simazine;Triazines et métabolites;H;PNA;;;;122-34-9;10/01/2003;C7H12ClN5;0,1
+1264;2,4,5-T;2,4,5-T;Divers (organiques);H;PNA;;;;93-76-5;;C8H5Cl3O3;0,1
+1265;Télodrine;Télodrine;Organochlorés;I;PNA;;;;297-78-9;;C9H4Cl8O;0,1
+1266;Terbuméton;Terbuméton;Triazines et métabolites;H;PNA;;;;33693-04-8;01/01/1999;C10H19N5O;0,1
+1267;Terbuphos;Terbuphos;Organophosphorés;IN;PNA;;;;13071-79-9;12/31/2004;C9H21O2PS3;0,1
+1268;Terbuthylazine;Terbuthylazine;Triazines et métabolites;H;PNA;;;;5915-41-3;07/01/2004;C9H16ClN5;0,1
+1269;Terbutryne;Terbutryne;Triazines et métabolites;H;PNA;;;;886-50-0;12/31/2004;C10H19N5S;0,1
+1277;Tétrachlorvinphos;Tétrachlorvinphos;Organophosphorés;IA;PNA;;;;22248-79-9;;C10H9Cl4O4P;0,1
+1279;Toxaphène;Toxaphène;Organochlorés;I;PNA;;;;8001-35-2;;C10H10Cl8;0,1
+1280;Triadiménol;Triadiménol;Azoles;F;PA;;;;55219-65-3;;C14H18ClN3O2;0,1
+1281;Triallate;Triallate;Carbamates;H;PA;;;;2303-17-5;;C10H16Cl3NOS;0,1
+1282;Total Triazines;Total Triazines;Triazines et métabolites;H;SO;;;;290-87-9;;C3H3N3;0,1
+1287;Trichlorfon;Trichlorfon;Organophosphorés;I;PA;;;;52-68-6;11/20/2008;C4H8Cl3O4P;0,1
+1288;Triclopyr;Triclopyr;Divers (organiques);H;PA;;;;55335-06-3;;C7H4Cl3NO3;0,1
+1289;Trifluraline;Trifluraline;Divers (organiques);H;PNA;;;;1582-09-8;12/31/2008;C13H16F3N3O4;0,1
+12256;Trifluraline-3,4,1;Trifluraline-3,4,1;Divers (organiques);H;;;;;1582-09-8;;C13H16F3N3O4;0,1
+1290;Vamidothion;Vamidothion;Organophosphorés;IA;PNA;;;;2275-23-2;12/31/2003;C8H18NO4PS2;0,1
+1291;Vinclozoline;Vinclozoline;Divers (organiques);F;PNA;;;;50471-44-8;12/31/2007;C12H9Cl2NO3;0,1
+1308;Amitraze;Amitraze;Divers (organiques);IA;PNA;;;;33089-61-1;08/01/2005;C19H23N3;0,1
+1310;Acrinathrine;Acrinathrine;Pyréthrinoïdes;IA;PA;;;;101007-06-1;;C26H21F6NO5;0,1
+1329;Bendiocarbe;Bendiocarbe;Carbamates;I;PA;;;;22781-23-3;;C11H13NO4;0,1
+1333;Carbétamide;Carbétamide;Carbamates;H;PA;;;;16118-49-3;;C12H16N2O3;0,1
+1336;Chlorbufame;Chlorbufame;Carbamates;H;PNA;;;;1967-16-4;;C11H10ClNO2;0,1
+1341;Chloronèbe;Chloronèbe;Benzène et dérivés;F;PNA;;;;2675-77-6;;C8H8Cl2O2;0,1
+1353;Chlorsulfuron;Chlorsulfuron;Urées;H;PA;;;;64902-72-3;;C12H12ClN5O4S;0,1
+1359;Cyprodinil;Cyprodinil;Divers (organiques);F;PA;;;;121552-61-2;;C14H15N3;0,1
+1360;Dichlofluanide;Dichlofluanide;Divers (organiques);F;PNA;;;;1085-98-9;12/31/2003;C9H11Cl2FN2O2S2;0,1
+1402;Diéthofencarbe;Diéthofencarbe;Carbamates;F;PNA;;;;87130-20-9;;C14H21NO4;0,1
+1403;Diméthomorphe;Diméthomorphe;Divers (organiques);F;PA;;;;110488-70-5;;C21H22ClNO4;0,1
+1405;Hexaconazole;Hexaconazole;Azoles;F;PNA;;;;79983-71-4;6/30/2008;C14H17Cl2N3O;0,1
+1406;Lénacile;Lénacile;Diazines;H;PA;;;;01/08/2164;;C13H18N2O2;0,1
+1407;Bénomyl;Bénomyl;Carbamates;F;PNA;;;;17804-35-2;;C14H18N4O3;0,1
+1414;Propyzamide;Propyzamide;Amides;H;PA;;;;23950-58-5;;C12H11Cl2NO;0,1
+1432;Pyriméthanil;Pyriméthanil;Divers (organiques);F;PA;;;;53112-28-0;;C12H13N3;0,1
+1463;Carbaryl;Carbaryl;Carbamates;Ireg;PNA;;;;63-25-2;11/20/2008;C12H11NO2;0,1
+1464;Chlorfenvinphos;Chlorfenvinphos;Organophosphorés;I;PNA;;;;470-90-6;12/31/2007;C12H14Cl3O4P;0,1
+1472;Chloropicrine;Chloropicrine;Organochlorés;FN;PNA;;;;76-06-2;;CCl3NO2;0,1
+1473;Chlorothalonil;Chlorothalonil;Divers (organiques);F;PA;;;;1897-45-6;;C8Cl4N2;0,1
+1474;Chlorprophame;Chlorprophame;Carbamates;Reg;PA;;;;101-21-3;;C10H12ClNO2;0,1
+1480;Dicamba;Dicamba;Organochlorés;H;PA;;;;1918-00-9;;C8H6Cl2O3;0,1
+12248;Dichloropropylène-1,3cis;Dichloropropylène-1,3cis;COHV, solvants chlorés, fréons;N;;;;;10061-01-5;;C3H4Cl2;0,1
+12249;Dichloropropylène-1,3trans;Dichloropropylène-1,3trans;COHV, solvants chlorés, fréons;N;;;;;10061-02-6;;C3H4Cl2;0,1
+1488;Diflubenzuron;Diflubenzuron;Urées;I;PA;;;;35367-38-5;;C14H9ClF2N2O2;0,1
+1490;Dinitrocrésol(DNOC);Dinitrocrésol;Composés phénoliques;IAFH;PNA;;;;534-52-1;04/01/2000;C7H6N2O5;0,1
+6421;(Code gelé en 2009 Dinitrocrésol(DNOC));Dinitrocrésol;Composés phénoliques;IAFH;PNA;;;;534-52-1;04/01/2000;C7H6N2O5;0,1
+1491;Dinosèbe;Dinosèbe;Composés phénoliques;H;PNA;;;;88-85-7;;C10H12N2O5;0,1
+1492;Disulfoton;Disulfoton;Organophosphorés;IA;PNA;;;;298-04-4;12/31/2003;C8H19O2PS3;0,1
+1495;Ethoprophos;Ethoprophos;Organophosphorés;IA;PNA;;;;13194-48-4;;C8H19O2PS2;0,1
+1499;Phénamiphos;Phénamiphos;Organophosphorés;IA;PNA;;;;22224-92-6;;C13H22NO3PS;0,1
+1500;Fénuron;Fénuron;Urées;H;PNA;;;;101-42-8;;C9H12N2O;0,1
+1501;Fluométuron;Fluométuron;Urées;H;PNA;;;;2164-17-2;;C10H11F3N2O;0,1
+1502;Bioresméthrine;Bioresméthrine;Pyréthrinoïdes;I;PNA;;;;28434-01-7;;C22H26O3;0,1
+1503;Flutriafol;Flutriafol;Azoles;F;PA;;;;76674-21-0;;C16H13F2N3O;0,1
+1504;Formothion;Formothion;Organophosphorés;IA;PNA;;;;2540-82-1;12/31/2003;C6H12NO4PS2;0,1
+1506;Glyphosate;Glyphosate;Divers (organiques);H;PA;;;;1071-83-6;;C3H8NO5P;0,1
+1510;Mercaptodiméthur;Methiocarbe;Carbamates;IAM;PA;;;;2032-65-7;;C11H15NO2S;0,1
+1515;Métobromuron;Métobromuron;Urées;H;PNA;;;;3060-89-7;12/31/2003;C9H11BrN2O2;0,1
+1516;Naled;Naled;Organophosphorés;IA;PNA;;;;300-76-5;4/30/2007;C4H7Br2Cl2O4P;0,1
+1519;Napropamide;Napropamide;Amides;H;PA;;;;15299-99-7;;C17H21NO2;0,1
+1520;Néburon;Néburon;Urées;H;PNA;;;;555-37-3;01/01/2000;C12H16Cl2N2O;0,1
+1522;Paraquat;Paraquat;Pyridines;H;PNA;;;;4685-14-7;04/08/207;C12H14N2;0,1
+1523;Perméthrine;Perméthrine;Pyréthrinoïdes;I;PA;;;;52645-53-1;;C21H20Cl2O3;0,1
+5682;Perméthrine cis;;Pyréthrinoïdes;I;;;;;;;;0,1
+5683;Perméthrine trans;;Pyréthrinoïdes;I;;;;;;;;0,1
+1525;Phorate;Phorate;Organophosphorés;IAN;PNA;;;;298-02-2;12/31/2003;C7H17O2PS3;0,1
+1526;Glufosinate;Glufosinate;Organophosphorés;H;PNA;;;;51276-47-2;;C5H12NO4P;0,1
+1817;Code gelé en 2000 (Glufosinate);;Organophosphorés;;;;;;;;;0,1
+1528;Pirimicarbe;Pirimicarbe;Carbamates;I;PNA;;;;23103-98-2;;C11H18N4O2;0,1
+1529;Bitertanol;Bitertanol;Azoles;F;PNA;;;;55179-31-2;12/30/2011;C20H23N3O2;0,1
+1530;Bromure de méthyle;Bromure de méthyle;COHV, solvants chlorés, fréons;I;PNA;;;;74-83-9;3/18/2010;CH3Br;0,1
+1531;Buturon;Buturon;Urées;H;PNA;;;;3766-60-7;;C12H13ClN2O;0,1
+1532;Propanil;Propanil;Amides;H;PNA;;;;709-98-8;3/30/2010;C9H9Cl2NO;0,1
+1533;Propétamphos;Propétamphos;Organophosphorés;IA;PA;;;;31218-83-4;;C10H20NO4PS;0,1
+1534;Prophame;Prophame;Carbamates;H;PNA;;;;122-42-9;04/09/1997;C10H13NO2;0,1
+1535;Propoxur;Propoxur;Carbamates;I;PNA;;;;114-26-1;;C11H15NO3;0,1
+1538;Quintozène;Quintozène;Divers (organiques);F;PNA;;;;82-68-8;6/27/2001;C6Cl5NO2;0,1
+1539;Silvex;Fenoprop;Divers (organiques);H;PNA;;;;93-72-1;;C9H7Cl3O3;0,1
+1540;Chlorpyriphos-méthyl;Chlorpyriphos-méthyl;Organophosphorés;I;PA;;;;5598-13-0;;C7H7Cl3NO3PS;0,1
+1542;Tébuthiuron;Tébuthiuron;Urées;H;PNA;;;;34014-18-1;;C9H16N4OS;0,1
+1544;Triadiméfone;Triadiméfone;Azoles;F;PNA;;;;43121-43-3;12/31/2004;C14H16ClN3O2;0,1
+1150;Déméton-O;Déméton-O;Organophosphorés;I;PNA;;;;298-03-3;;C8H19O3PS2;0,1
+1152;Déméton-S;Déméton-S;Organophosphorés;IA;PNA;;;;126-75-0;;C8H19O3PS2;0,1
+1550;Déméton;Déméton;Organophosphorés;I;PNA;;;;8065-48-3;;C16H38O6P2S4;0,1
+1584;Biphényle;Biphényle;Benzène et dérivés;F;PNA;;;;92-52-4;;C12H10;0,1
+1657;Triazophos;Triazophos;Organophosphorés;IAN;PNA;;;;24017-47-8;1992;C12H16N3O3PS;0,1
+1658;Tralométhrine;Tralométhrine;Pyréthrinoïdes;I;PNA;;;;66841-25-6;12/31/2003;C22H19Br4NO3;0,1
+1659;Terbacil;Terbacil;Diazines;H;PNA;;;;5902-51-2;12/31/2007;C9H13ClN2O2;0,1
+1660;Tetraconazole;Tetraconazole;Azoles;F;PA;;;;112281-77-3;;C13H11Cl2F4N3O;0,1
+1661;Tébutame;Tébutame;Amides;H;PNA;;;;35256-85-0;12/31/2003;C15H23NO;0,1
+1662;Sulcotrione;Sulcotrione;Divers (organiques);H;PA;;;;99105-77-8;;C14H13ClO5S;0,1
+1663;Pyrifenox;Pyrifenox;Pyridines;F;PNA;;;;88283-41-4;12/31/2003;C14H12Cl2N2O;0,1
+1664;Procymidone;Procymidone;Divers (organiques);F;PNA;;;;32809-16-8;12/31/2008;C13H11Cl2NO2;0,1
+1665;Phoxime;Phoxime;Organophosphorés;I;PA;;;;14816-18-3;;C12H15N2O3PS;0,1
+1666;Oxadixyl;Oxadixyl;Divers (organiques);F;PNA;;;;77732-09-3;12/31/2003;C14H18N2O4;0,1
+1667;Oxadiazon;Oxadiazon;Organochlorés;H;PA;;;;19666-30-9;;C15H18Cl2N2O3;0,1
+1668;Oryzalin;Oryzalin;Divers (organiques);H;PA;;;;19044-88-3;;C12H18N4O6S;0,1
+1669;Norflurazon;Norflurazone;Diazines;H;PNA;;;;27314-13-2;12/31/2003;C12H9ClF3N3O;0,1
+1670;Métazachlore;Métazachlore;Amides;H;PA;;;;67129-08-2;;C14H16ClN3O;0,1
+1671;Methamidophos;Methamidophos;Organophosphorés;IA;PNA;;;;10265-92-6;12/31/2008;C2H8NO2PS;0,1
+1672;Isoxaben;Isoxaben;Amides;H;PA;;;;82558-50-7;;C18H24N2O4;0,1
+1673;Hexazinone;Hexazinone;Triazines et métabolites;H;PNA;;;;51235-04-2;12/31/2007;C12H20N4O2;0,1
+1674;Fonofos;Fonofos;Organophosphorés;I;PNA;;;;944-22-9;12/31/2003;C10H15OPS2;0,1
+1675;Flurochloridone;Flurochloridone;Divers (organiques);H;PA;;;;61213-25-0;;C12H10Cl2F3NO;0,1
+1676;Flufenoxuron;Flufenoxuron;Divers (organiques);IA;PNA;;;;101463-69-8;;C21H11ClF6N2O3;0,1
+1677;Meptyldinocap;Meptyldinocap;Divers (organiques);F;PA;;;;131-72-6;;C18H24N2O6;0,1
+1678;Dimethenamide;Dimethenamide;Amides;H;PNA;;;;87674-68-8;6/22/2008;C12H18ClNO2S;0,1
+1679;Dichlobenil;Dichlobenil;Organochlorés;H;PNA;;;;1194-65-6;3/18/2010;C7H3Cl2N;0,1
+1680;Cyproconazole;Cyproconazole;Azoles;F;PA;;;;94361-06-5;;C15H18ClN3O;0,1
+1681;Cyfluthrine;Cyfluthrine;Pyréthrinoïdes;I;PA;;;;68359-37-5;;C22H18Cl2FNO3;0,1
+1682;Coumaphos;Coumaphos;Organophosphorés;I;PNA;;;;56-72-4;;C14H16ClO5PS;0,1
+1683;Chloroxuron;Chloroxuron;Urées;H;PNA;;;;1982-47-4;12/31/2003;C15H15ClN2O2;0,1
+1684;Chlorophacinone;Chlorophacinone;Divers (organiques);R;PA;;;;3691-35-8;;C23H15ClO3;0,1
+1685;Bromopropylate;Bromopropylate;Divers (organiques);IA;PNA;;;;18181-80-1;;C17H16Br2O3;0,1
+1686;Bromacil;Bromacil;Diazines;H;PNA;;;;314-40-9;01/01/2004;C9H13BrN2O2;0,1
+1687;Benalaxyl;Benalaxyl;Amides;F;PA;;;;71626-11-4;;C20H23NO3;0,1
+1688;Aclonifène;Aclonifène;Divers (organiques);H;PA;;;;74070-46-5;;C12H9ClN2O3;0,1
+1694;Tébuconazole;Tébuconazole;Azoles;F;PA;;;;107534-96-3;;C16H22ClN3O;0,1
+1695;Imazaméthabenz;Imazaméthabenz;Azoles;H;PNA;;;;100728-84-5;12/31/2007;C15H18N2O3;0,1
+1696;Cycluron;Cycluron;Urées;H;PNA;;;;2163-69-1;;C11H22N2O;0,1
+1697;Depalléthrine/allethrine;Depalléthrine;Pyréthrinoïdes;I;PNA;;;;584-79-2;;C19H26O3;0,1
+1698;Dimétilan;Dimétilan;Carbamates;I;PNA;;;;644-64-4;;C10H16N4O3;0,1
+1699;Diquat;Diquat;Pyridines;H;PA;;;;2764-72-9;;C12H12N2;0,1
+1700;Fenpropidine;Fenpropidine;Divers (organiques);F;PA;;;;67306-00-7;;C19H31N;0,1
+1701;Fenvalérate;Fenvalérate;Pyréthrinoïdes;IA;PNA;;;;51630-58-1;;C25H22ClNO3;0,1
+1703;Formétanate;Formétanate;Carbamates;IA;PNA;;;;22259-30-9;;C11H15N3O2;0,1
+1704;Imazalil;Imazalil;Azoles;F;PA;;;;73790-28-0;;C14H14Cl2N2O;0,1
+1705;Manèbe;Manèbe;Carbamates;F;PA;;;;12427-38-2;;C4H6MnN2S4;0,1
+1706;Métalaxyl;Métalaxyl;Divers (organiques);F;PNA;;;;57837-19-1;11/02/2004;C15H21NO4;0,1
+1707;Molinate;Molinate;Carbamates;H;PNA;;;;2212-67-1;12/31/2009;C9H17NOS;0,1
+1708;Piclorame;Piclorame;Divers (organiques);H;PNA;;;;01/02/1918;;C6H3Cl3N2O2;0,1
+1709;Piperonyl butoxyde;Piperonyl butoxyde;Divers (organiques);I;PA;;;;51-03-6;;C19H30O5;0,1
+1710;Promécarbe;Promécarbe;Carbamates;I;PNA;;;;2631-37-0;;C12H17NO2;0,1
+1711;Prométone;Prométone;Triazines et métabolites;H;;;;;1610-18-0;;C10H19N5O;0,1
+1712;Propachlore;Propachlore;Divers (organiques);H;PNA;;;;1918-16-7;3/18/2010;C11H14ClNO;0,1
+1713;Thiabendazole;Thiabendazole;Azoles;F;PA;;;;148-79-8;;C10H7N3S;0,1
+1714;Thiazafluron;Thiazafluron;Urées;H;PNA;;;;25366-23-8;12/31/2004;C6H7F3N4OS;0,1
+1715;Thiofanox;Thiofanox;Carbamates;IA;PNA;;;;39196-18-4;12/31/2004;C9H18N2O2S;0,1
+1717;Thiophanate-méthyl;Thiophanate-méthyl;Carbamates;F;PA;;;;23564-05-8;;C12H14N4O4S2;0,1
+1718;Thirame;Thirame;Carbamates;F;PA;;;;137-26-8;;C6H12N2S4;0,1
+1719;Tolylfluanide;Tolylfluanide;Divers (organiques);F;PNA;;;;731-27-1;07/03/2007;C10H13Cl2FN2O2S2;0,1
+1720;Trichloronat;Trichloronat;Organochlorés;I;PNA;;;;327-98-0;;C10H12Cl3O2PS;0,1
+1721;Zinèbe;Dithiocarbamate;Carbamates;F;PNA;;;;12122-67-7;9/22/2002;C4H6N2S4Zn;0,1
+1722;Zirame;Zirame;Carbamates;F;PA;;;;137-30-4;;C6H12N2S4Zn;0,1
+1742;Endosulfan sulfate;Endosulfan sulfate;Organochlorés;I;;oui;1743;Endosulfan;1031-07-8;;C9H6Cl6O4S;0,1
+1178;Endosulfan alpha;Endosulfan alpha;Organochlorés;I;PNA;;;;959-98-8;;C9H6Cl6O3S;0,1
+1179;Endosulfan bêta;Endosulfan bêta;Organochlorés;I;PNA;;;;33213-65-9;;C9H6Cl6O3S;0,1
+1743;Total Endosulfan;Total Endosulfan;Organochlorés;I;SO;;;;115-29-7;;C9H6Cl6O3S;0,1
+1744;Epoxiconazole;Epoxiconazole;Azoles;F;PA;;;;106325-08-0;;C17H13ClFN3O;0,1
+1762;Penconazole;Penconazole;Azoles;F;PA;;;;66246-88-6;;C13H15Cl2N3;0,1
+1763;Ethidimuron;Ethidimuron;Urées;H;PNA;;;;30043-49-3;12/31/2003;C7H12N4O3S2;0,1
+1764;Benthiocarbe;Thiobencarbe;Carbamates;H;PNA;;;;28249-77-6;;C12H16ClNOS;0,1
+1765;Fluroxypyr;Fluroxypyr;Pyridines;H;PA;;;;69377-81-7;;C7H5Cl2FN2O3;0,1
+1796;Métaldéhyde;Métaldéhyde;Divers (organiques);I;PA;;;;108-62-3;;C8H16O4;0,1
+1797;Metsulfuron méthyle;Metsulfuron méthyle;Urées;H;PA;;;;74223-64-6;;C14H15N5O6S;0,1
+1802;Triforine;Triforine;Azoles;F;PNA;;;;26644-46-2;12/31/2003;C10H14Cl6N4O2;0,1
+1803;Mercaptodiméthur sulfone;Mercaptodiméthur sulfone;Carbamates;IM;;oui;1510;Mercaptodiméthur;2179-25-1;;C11H15NO4S;0,1
+1804;Mercaptodiméthur sulfoxyde;Mercaptodiméthur sulfoxyde;Carbamates;IM;;oui;1510;Mercaptodiméthur;01/10/2635;;C11H15NO3S;0,1
+1805;Hydroxycarbofuran-3;Hydroxycarbofuran-3;Carbamates;;;oui;1130;Carbofuran;16655-82-6;;C12H15NO4;0,1
+1826;(Code gelé Hydroxycarbofuran-3);Hydroxycarbofuran-3;Carbamates;;;oui;1130;Carbofuran;16655-82-6;;C12H15NO4;0,1
+12082;Hydroxycarbofuran-3;Hydroxycarbofuran-3;Carbamates;;;;;;16655-82-6;;C12H15NO4;0,1
+1806;Aldicarbe sulfoxyde;Aldicarbe sulfoxyde;Carbamates;;;oui;1102;Aldicarbe;1646-87-3;;C7H14N2O3S;0,1
+1827;Code gelé (aldicarbe sulfoxyde);;Carbamates;;;oui;1102;Aldicarbe;;;;0,1
+1807;Aldicarbe sulfoné;Aldicarbe sulfoné;Carbamates;;;oui;1102;Aldicarbe;1646-88-4;;C7H14N2O4S;0,1
+1828;Code gelé(aldicarbe sulfone);;Carbamates;;;oui;1102;Aldicarbe;;;;0,1
+1808;Séthoxydime;Séthoxydime;Divers (organiques);H;PNA;;;;74051-80-2;12/31/2003;C17H29NO3S;0,1
+1809;Esfenvalerate;Esfenvalerate;Pyréthrinoïdes;I;PA;;;;66230-04-4;;C25H22ClNO3;0,1
+1810;Clopyralide;Clopyralide;Pyridines;H;PA;;;;1702-17-6;;C6H3Cl2NO2;0,1
+1811;Tridemorph;Tridémorphe;Divers (organiques);F;PNA;;;;81412-43-3;;C19H39NO;0,1
+2080;(Code gelé en 2007 Tridemorph);Tridemorph;Divers (organiques);F;PNA;;;;24602-86-6;;C19H39NO;0,1
+1812;Alpha-cyperméthrine/alphaméthrine;Alphaméthrine;Pyréthrinoïdes;I;PA;;;;67375-30-8;;C22H19Cl2NO3;0,1
+1813;Chlorthiamide;Chlorthiamide;Amides;H;PNA;;;;1918-13-4;12/31/2003;C7H5Cl2NS;0,1
+1814;Diflufenicanil;Diflufenicanil;Divers (organiques);H;PA;;;;83164-33-4;;C19H11F5N2O2;0,1
+1816;Fosetyl;Fosetyl;Organophosphorés;F;PA;;;;15845-66-6;;C2H7O3P;0,1
+1829;Isofenphos;Isofenphos;Organophosphorés;I;PNA;;;;25311-71-1;12/31/2003;C15H24NO4PS;0,1
+1830;Déisopropyl-déséthyl-atrazine;Déisopropyl-déséthyl-atrazine;Triazines et métabolites;;;oui;1107;atrazine;3397-62-4;;C3H4ClN5;0,1
+12121;Deisopropyldeethylatrazine;Deisopropyldeethylatrazine;Triazines et métabolites;;;;;;3397-62-4;;C3H4ClN5;0,1
+1831;Simazine-hydroxy;Simazine-hydroxy;Triazines et métabolites;;;oui;1263;Simazine;03/11/2599;;C7H13N5O;0,1
+1832;2-hydroxy atrazine;atrazine-2-hydroxy;Triazines et métabolites;;;oui;1107;Atrazine;2163-68-0;;C8H15N5O;0,1
+12118;Hydroxyatrazine;Hydroxyatrazine;Triazines et métabolites;;;probable;1107;Atrazine;2163-68-0;;C8H15N5O;0,1
+1840;Flamprop-isopropyl;Flamprop-isopropyl;Divers (organiques);H;PNA;;;;52756-22-6;12/31/2003;C19H19ClFNO3;0,1
+1843;Fenfurame;Fenfurame;Amides;F;PNA;;;;24691-80-3;12/31/2003;C12H11NO2;0,1
+1844;Diméthylarsinate de sodium;Diméthylarsinate de sodium;Organométalliques;H;PNA;;;;124-65-2;;C2H6AsNaO2;0,1
+1848;Oxychlordane;Oxychlordane;Organochlorés;;;oui;1756;Chlordane alpha;27304-13-8;;C10H4Cl80;0,1
+1850;Oxamyl;Oxamyl;Carbamates;IAN;PA;;;;23135-22-0;;C7H13N3O3S;0,1
+1858;Vernolate;Vernolate;Carbamates;H;PNA;;;;1929-77-7;12/31/2003;C10H21NOS;0,1
+1859;Bromadiolone;Bromadiolone;Divers (organiques);R;PA;;;;28772-56-7;;C30H23BrO4;0,1
+1860;Bromuconazole;Bromuconazole;Azoles;F;PNA;;;;116255-48-2;05/03/2010;C13H12BrCl2N3O;0,1
+1861;Bupirimate;Bupirimate;Pyridines;F;PA;;;;41483-43-6;;C13H24N4O3S;0,1
+1862;Buprofézine;Buprofézine;Diazines;I;PNA;;;;69327-76-0;3/30/2010;C16H23N3OS;0,1
+1863;Cadusafos;Cadusafos;Organophosphorés;IN;PNA;;;;95465-99-9;12/15/2008;C10H23O2PS2;0,1
+1864;Carbosulfan;Carbosulfan;Carbamates;I;PNA;;;;55285-14-8;12/13/2008;C20H32N2O3S;0,1
+1865;Chinométhionate;Chinométhionate;Diazines;FA;PNA;;;;02/01/2439;12/31/2003;C10H6N2OS2;0,1
+1866;Chlordécone;Chlordécone;Organochlorés;I;PNA;;;;143-50-0;;C10Cl10O;0,1
+1867;Chlorthal;Chlorthal;Divers (organiques);H;;oui;2966;Chlorthal diméthyl;2136-79-0;;C8H2Cl4O4;0,1
+1868;Clofentézine;Clofentézine;Triazines et métabolites;IA;PA;;;;74115-24-5;;C14H8Cl2N4;0,1
+1869;Dazomet;Dazomet;Carbamates;FN;PA;;;;533-74-4;;C5H10N2S2;0,1
+1870;Diméfuron;Diméfuron;Urées;H;PNA;;;;34205-21-5;12/31/2003;C15H19ClN4O3;0,1
+1871;Diniconazole;Diniconazole;Azoles;FN;PNA;;;;83657-24-3;3/18/2010;C15H17Cl2N3O;0,1
+1873;EPN;EPN;Organophosphorés;I;PNA;;;;2104-64-5;;C14H14NO4PS;0,1
+1874;Ethiofencarbe;Ethiofencarbe;Carbamates;I;PNA;;;;29973-13-5;12/31/2003;C11H15NO2S;0,1
+1875;Hexaflumuron;Hexaflumuron;Urées;I;PNA;;;;86479-06-3;12/31/2004;C16H8Cl2F6N2O3;0,1
+1876;Hexythiazox;Hexythiazox;Divers (organiques);IA;PA;;;;78587-05-0;;C17H21ClN2O2S;0,1
+1877;Imidaclopride;Imidaclopride;Divers (organiques);I;PA;;;;138261-41-3;;C9H10ClN5O2;0,1
+1878;Mépronil;Mépronil;Divers (organiques);F;PNA;;;;55814-41-0;12/31/2003;C17H19NO2;0,1
+1879;Metconazole;Metconazole;Azoles;F;PA;;;;125116-23-6;;C17H22ClN3O;0,1
+1880;Monocrotophos;Monocrotophos;Organophosphorés;IA;PNA;;;;6923-22-4;12/31/2003;C7H14NO5P;0,1
+1881;Myclobutanil;Myclobutanil;Azoles;F;PA;;;;88671-89-0;;C15H17ClN4;0,1
+1882;Nicosulfuron;Nicosulfuron;Urées;H;PA;;;;111991-09-4;;C15H18N6O6S;0,1
+1883;Nuarimol;Nuarimol;Pyridines;F;PNA;;;;63284-71-9;12/31/2004;C17H12ClFN2O;0,1
+1887;Pencycuron;Pencycuron;Urées;F;PA;;;;66063-05-6;;C19H21ClN2O;0,1
+1889;Profenofos;Profenofos;Organophosphorés;IA;PNA;;;;41198-08-7;12/31/2003;C11H15BrClO3PS;0,1
+1890;Pyridabène;Pyridabène;Divers (organiques);IA;PA;;;;96489-71-3;;C19H25ClN2OS;0,1
+1891;Quinalphos;Quinalphos;Organophosphorés;IA;PNA;;;;13593-03-8;12/31/2003;C12H15N2O3PS;0,1
+1892;Rimsulfuron;Rimsulfuron;Urées;H;PA;;;;122931-48-0;;C14H17N5O7S2;0,1
+1893;Siduron;Siduron;Urées;H;PNA;;;;1982-49-6;12/31/2003;C14H20N2O;0,1
+1894;Sulfotep;Sulfotep;Organophosphorés;IA;PNA;;;;3689-24-5;12/31/2003;C8H20O5P2S2;0,1
+1895;Tébufénozide;Tébufénozide;Divers (organiques);I;PA;;;;112410-23-8;;C22H28N2O2;0,1
+1896;Tébufenpyrad;Tébufenpyrad;Azoles;IA;PA;;;;119168-77-3;;C18H24ClN3O;0,1
+1897;Téflubenzuron;Téflubenzuron;Urées;I;PNA;;;;83121-18-0;;C14H6Cl2F4N2O2;0,1
+1898;Téméphos;Téméphos;Organophosphorés;I;PA;;;;3383-96-8;;C16H20O6P2S3;0,1
+1899;TEPP;TEPP(tetraEthylPyroPhosphate);Organophosphorés;IA;PNA;;;;107-49-3;;C8H20O7P2;0,1
+1900;Tétradifon;Tétradifon;Divers (organiques);IA;PNA;;;;116-29-0;12/31/2004;C12H6Cl4O2S;0,1
+1901;Triazamate;Triazamate;Divers (organiques);I;PNA;;;;112143-82-5;12/31/2006;C13H22N4O3S;0,1
+1902;Triflumuron;Triflumuron;Urées;I;PA;;;;64628-44-0;;C15H10ClF3N2O3;0,1
+1903;Acétochlore;Acétochlore;Amides;H;PA;;;;34256-82-1;;C14H20ClNO2;0,1
+1904;Diclobutrazol;Diclobutrazol;Azoles;F;PNA;;;;75736-33-3;12/31/2003;C15H19Cl2N3O;0,1
+1905;Difénoconazole;Difénoconazole;Azoles;F;PA;;;;119446-68-3;;C19H17Cl2N3O3;0,1
+1906;Fenbuconazole;Fenbuconazole;Azoles;F;PA;;;;114369-43-6;;C19H17ClN4;0,1
+1907;AMPA;AMPA(AminoMéthylPhosphonique Acide);Divers (organiques);;;oui;1506;Glyphosate;1066-51-9;;CH6NO3P;0,1
+2083;(Code gelé en 2002 AMPA);AMPA(AminoMéthylPhosphonique Acide);Divers (organiques);;;oui;1506;Glyphosate;1066-51-9;;CH6NO3P;0,1
+1908;Furalaxyl;Furalaxyl;Amides;F;PNA;;;;57646-30-7;12/31/2003;C17H19NO4;0,1
+1910;Heptenophos;Heptenophos;Organophosphorés;I;PNA;;;;23560-59-0;12/31/2003;C9H12ClO4P;0,1
+1911;Imazaméthabenz-méthyl;Imazaméthabenz-méthyl;Azoles;H;PNA;;;;81405-85-8;;C32H40N4O6;0,1
+1912;Métosulame;Métosulame;Divers (organiques);H;PA;;;;139528-85-1;;C14H13Cl2N5O4S;0,1
+1913;Thifensulfuron méthyl;Thifensulfuron méthyl;Urées;H;PA;;;;79277-27-3;;C12H13N5O6S2;0,1
+1914;Triasulfuron;Triasulfuron;Urées;H;PNA;;;;82097-50-5;;C14H16ClN5O5S;0,1
+1923;Sébuthylazine;Sébuthylazine;Triazines et métabolites;H;PNA;;;;7286-69-3;;C9H16ClN5;0,1
+1929;1-(3,4-dichlorophényl)-3-méthyl-urée;Demethyl Diuron;Urées;H;;oui;1177;Diuron;3567-62-2;;C8H8Cl2N2O;0,1
+2848;(Code gelé en 2009 (Demethyldiuron));;Urées;;;oui;1177;Diuron;;;;0,1
+1930;3,4-dichlorophénylurée;Didemethyldiuron;Urées;;;oui;1177;Diuron;08/02/2327;;C7H6Cl2N2O;0,1
+2086;(Code gelé en 2003 3,4-dichlorophenylurée);3,4-dichlorophenylurée;Urées;;;oui;1177;Diuron;08/02/2327;;C7H6Cl2N2O;0,1
+2849;(Code gelé en 2010 Didemethyldiuron);;Urées;;;oui;1177;Diuron;;;;0,1
+9050;3,4-dichlorophenylurée;3,4-dichlorophenylurée;Urées;;;oui;1177;Diuron;08/02/2327;;C7H6Cl2N2O;0,1
+9054;1-(3,4dichlorophényl)-urée;Didemethyldiuron;Urées;;;oui;1177;Diuron;08/02/2327;;;0,1
+1932;4-isopropylaniline;cumidine;Amines;;;oui;1208;Isoproturon;99-88-7;;C9H13N;0,1
+1935;Irgarol;Irgarol;Triazines et métabolites;H;;;;;28159-98-0;;C11H17N5S;0,1
+1937;Naptalame;Naptalame;Amides;H;PNA;;;;132-66-1;12/31/2007;C18H13NO3;0,1
+1939;Flazasulfuron;Flazasulfuron;Urées;H;PA;;;;104040-78-0;;C13H12F3N5O5S;0,1
+1940;Thiafluamide;flufenacet;Amides;H;PA;;;;142459-58-3;;C14H13F4N3O2S;0,1
+99006;Fluthiamide;;Amides;H;;;;;;;;0,1
+1941;Bromoxynil octanoate;Bromoxynil octanoate;Divers (organiques);H;PA;;;;1689-99-2;;C15H17Br2NO2;0,1
+1942;Ioxynil octanoate;Ioxynil octanoate;Divers (organiques);H;PA;;;;3861-47-0;;C15H17I2NO2;0,1
+1943;2,6-diethylaniline;DEA;Amines;;;oui;1101;Alachlore;579-66-8;;C10H15N;0,1
+1944;2-chloro-4-méthyl sulfonyl benzoique acide;CMBA;Divers (organiques);;;oui;1662;Sulcotrione;53250-83-2;;C8H7ClO4S;0,1
+1945;Isoxaflutole;Isoxaflutole;Azoles;H;PA;;;;141112-29-0;;C15H12F3NO4S;0,1
+1949;Pretilachlore;Pretilachlore;Divers (organiques);H;PNA;;;;51218-49-6;12/31/2007;C17H26ClNO2;0,1
+1950;Kresoxim-methyl;KRESOXIM-METHYL;Divers (organiques);F;PA;;;;143390-89-0;;C18H19NO4;0,1
+2574;(Code gelé en 2005 Kresoxim-methyl);KRESOXIM-METHYL;Divers (organiques);F;PA;;;;143390-89-0;;C18H19NO4;0,1
+1951;Azoxystrobine;AZOXYSTROBINE;Divers (organiques);F;PA;;;;131860-33-8;;C22H17N3O5;0,1
+1952;Oxyfluorfene;OXYFLUORFENE;Divers (organiques);H;PA;;;;42874-03-3;;C15H11ClF3NO4;0,1
+1953;Tefluthrine;TEFLUTHRINE;Pyréthrinoïdes;I;PA;;;;79538-32-2;;C17H14ClF7O2;0,1
+1954;Hydroxyterbuthylazine;Hydroxyterbuthylazine;Triazines et métabolites;;;oui;1268;Terbuthylazine;66753-07-9;;C9H17ON5;0,1
+1965;Asulame;asulame;Carbamates;H;PA;;;;3337-71-1;12/31/2012;C8H10N2O4S;0,1
+1966;Dithianon;dithianon;Divers (organiques);F;PA;;;;3347-22-6;;C14H4N2O2S2;0,1
+1967;Fenoxycarbe;fenoxycarbe;Carbamates;I;PA;;;;79127-80-3;;C17H19NO4;0,1
+1968;Mefenacet;mefenacet;Amides;H;PNA;;;;73250-68-7;;C16H14N2O2S;0,1
+1969;Mepiquat;Mepiquat;Divers (organiques);Reg;PA;;;;15302-91-7;;C7H16N;0,1
+1970;Acifluorfen;acifluorfen;Divers (organiques);H;PNA;;;;62476-59-9/50594-66-6;;C14H7ClF3NO5;0,1
+1971;Phosmet;phosmet;Organophosphorés;I;PA;;;;732-11-6;;C11H12NO4PS2;0,1
+1972;Propaquizafop;propaquizafop;Divers (organiques);H;PA;;;;111479-05-1;;C22H22ClN3O5;0,1
+1973;Fénoxaprop-éthyl;fénoxaprop-éthyl;Divers (organiques);H;PNA;;;;82110-72-3;;C18H16ClNO5;0,1
+1974;Fluridone;fluridone;Divers (organiques);H;PNA;;;;59756-60-4;12/31/2003;C19H14F3NO;0,1
+1975;Fosetyl-aluminium;fosetyl-aluminium;Organométalliques;F;PA;;;;39148-24-8;;C6H18AlO9P3;0,1
+8988;Fosetyl aluminium;;Organométalliques;F;;;;;39148-24-8;;C6H18AlO9P3;0,1
+1976;Isazofos;isazofos;Organophosphorés;N;PNA;;;;42509-80-8;12/31/2003;C9H17ClN3O3PS;0,1
+5439;(Code gelé en 2007 Isazofos);isazofos;Organophosphorés;N;PNA;;;;42509-80-8;12/31/2003;C9H17ClN3O3PS;0,1
+2007;Abamectin;Abamectin;Divers (organiques);I;PA;;;;71751-41-2;;C48H72O14;0,1
+2008;Flurtamone;Flurtamone;Divers (organiques);H;PA;;;;96525-23-4;;C18H14F3NO2;0,1
+2009;Fipronil;Fipronil;Azoles;I;PA;;;;120068-37-3;;C12H4Cl2F6N4OS;0,1
+2011;2,6-dichlorobenzamide;2,6-dichlorobenzamide;Amides;;;oui;1679;Dichobenil;18181-70-9/2008-58-4;;C7H5Cl2NO;0,1
+2012;Amidosulfuron;Amidosulfuron;Urées;H;PA;;;;103055-07-8;;C9H15N5O7S2;0,1
+2013;Anthraquinone;Anthraquinone;Amines;RepO;PNA;;;;84-65-1;6/15/2010;C14H8O2;0,1
+2014;Azaconazole;Azaconazole;Azoles;F;PNA;;;;2008-58-4;;C12H11Cl2N3O2;0,1
+2015;Azamétiphos;Azamétiphos;Organophosphorés;I;PA;;;;35575-96-3;;C9H10ClN2O5PS;0,1
+2016;Chlorbromuron;Chlorbromuron;Urées;H;PNA;;;;13360-45-7;;C9H10BrClN2O2;0,1
+2017;Clomazone;Clomazone;Divers (organiques);H;PA;;;;81777-89-1;;C12H14ClNO2;0,1
+2018;Cloquintocet-mexyl;Cloquintocet-mexyl;Divers (organiques);H;PA;;;;99607-70-2;;C18H22ClNO3;0,1
+2019;Coumatétralyl;Coumatétralyl;Divers (organiques);R;PA;;;;5836-29-3;;C19H16O3;0,1
+2020;Famoxadone;Famoxadone;Azoles;F;PA;;;;131807-57-3;;C22H18N2O4;0,1
+2021;Ferbame;Ferbame;Carbamates;F;PNA;;;;14484-64-1;1/13/1996;C9H18FeN3S6;0,1
+2022;Fludioxonil;Fludioxonil;Azoles;F;PA;;;;131341-86-1;;C12H6F2N2O2;0,1
+2023;Flumioxazine;Flumioxazine;Divers (organiques);H;PA;;;;103361-09-7;;C19H15FN2O4;0,1
+2024;Flurprimidol;Flurprimidol;Pyridines;F;PNA;;;;56425-91-3;;C15H15F3N2O2;0,1
+2025;Iodofenphos;Iodofenphos;Organophosphorés;IA;PNA;;;;18181-70-9;;C8H8Cl2IO3PS;0,1
+2026;Lufénuron;Lufénuron;Urées;I;PNA;;;;103055-07-8;12/30/2011;C17H8Cl2F8N2O3;0,1
+2027;Ofurace;Ofurace;Amides;F;PNA;;;;58810-48-3;12/31/2003;C14H16ClNO3;0,1
+2028;Quinoxyfen;Quinoxyfen;Divers (organiques);F;PA;;;;124495-18-7;;C15H8Cl2FNO;0,1
+2029;Roténone;Roténone;Divers (organiques);IA;PNA;;;;83-79-4;10/31/2011;C23H22O6;0,1
+2045;Terbuthylazine déséthyl;Terbuthylazine déséthyl;Triazines et métabolites;;;oui;1268;terbutylazine;30125-63-4;;C7H12ClN5;0,1
+2051;Déséthyl-terbuméton;Déséthyl-terbuméton;Triazines et métabolites;;;oui;1266;Terbuméton;30125-64-5;;C8H15N5O;0,1
+2056;Fluquinconazole;Fluquinconazole;Azoles;F;PNA;;;;136426-54-5;;C16H8Cl2FN5O;0,1
+2057;Fénamidone;Fénamidone;Azoles;F;PA;;;;161326-34-7;;C17H17N3OS;0,1
+2061;Fenothrine;Fenothrine;Pyréthrinoïdes;I;PNA;;;;26002-80-2;;C23H26O3;0,1
+2062;Pyrethrine;Pyrethrine;Pyréthrinoïdes;IA;PA;;;;8003-34-7;;C(20-22)-H(28-30)-O(3-5);0,1
+2064;Tribenuron-Methyle;Tribenuron-Methyle;Urées;H;PA;;;;101200-48-0;;C15H17N5O6S;0,1
+2067;Metiram;Metiram;Carbamates;F;PA;;;;9006-42-2;;C16H33N11S16Zn3;0,1
+2068;Oxadiargyl;Oxadiargyl;Azoles;H;PA;;;;39807-15-3;;C15H14Cl2N2O3;0,1
+2069;Quizalofop;Quizalofop;Divers (organiques);H;PNA;;;;76578-12-6;12/31/2003;C17H13ClN2O4;0,1
+2070;Quizalofop éthyl;Quizalofop éthyl;Divers (organiques);H;PNA;;;;76578-14-8;;C19H17ClN2O4;0,1
+1716;Code gelé en 2003 (Dithiométon);Dithiométon;Organophosphorés;IA;;;;;640-15-3;;C6H15O2PS3;0,1
+2071;Thiométon;Thiométon;Organophosphorés;IA;PNA;;;;640-15-3;12/31/2004;C6H15O2PS3;0,1
+2074;Benoxacor;Benoxacor;Divers (organiques);H;PA;;;;98730-04-2;;C11H11Cl2NO2;0,1
+2075;Fomesafen;Fomesafen;Amides;H;PNA;;;;72178-02-0;12/31/2007;C15H10ClF3N2O6S;0,1
+2076;Mésotrione;Mésotrione;Aldéhydes et cétones;H;PA;;;;104206-82-8;;C14H13NO7S;0,1
+2077;Sulfosate;Sulfosate;Divers (organiques);H;PNA;;;;81591-81-3;;C12H32NO5PS3;0,1
+2078;Fenbutatin oxyde;Fenbutatin oxyde;Organométalliques;IA;PA;;;;13356-08-6;;C60 H78 O Sn2;0,1
+2084;Mécoprop-P;Mécoprop-P(MCPP-P);Divers (organiques);H;PA;;;;16484-77-8;;C10H11ClO3;0,1
+2085;Sulfosulfuron;Sulfosulfuron;Urées;H;PA;;;;141776-32-1;;C16H18N6O7S2;0,1
+2087;Quinmerac;Quinmerac;Divers (organiques);H;PA;;;;90717-03-6;;C11H8ClNO2;0,1
+2088;Metam-sodium;Metam-sodium;Carbamates;N;PA;;;;137-42-8;;C2H4NNaS2;0,1
+2089;Mépiquat chlorure;Mépiquat chlorure;Divers (organiques);Reg;PA;;;;24307-26-4;;C7H16ClN;0,1
+2090;Imazapyr;Imazapyr;Azoles;H;PNA;;;;81334-34-1;12/31/2003;C13H15N3O3;0,1
+1778;(Code gelé en 2011 Fentine hydroxyde);Fentine hydroxyde;Organométalliques;FHM;PNA;;;;76-87-9;10/01/2003;C18H16OSn;0,1
+2091;Fentine hydroxyde;Fentine hydroxyde;Organométalliques;F;PNA;;;;76-87-9;10/01/2003;C18H16OSn;0,1
+2092;Fentine acetate;Fentine acetate;Organométalliques;F;PNA;;;;900-95-8;10/01/2003;C20H18O2Sn;0,1
+2093;Ethephon;Ethephon;Organophosphorés;Reg;PA;;;;16672-87-0;;C2H6ClO3P;0,1
+2094;Dalapon;Dalapon;Divers (organiques);H;PNA;;;;75-99-0;12/31/2003;C3H4Cl2O2;0,1
+2095;Clodinafop-propargyl;Clodinafop-propargyl;Divers (organiques);H;PA;;;;105512-06-9;;C17H13ClFNO4;0,1
+2096;Trinexapac-ethyl;Trinexapac-ethyl;Divers (organiques);Reg;PA;;;;95266-40-3;;C13H16O5;0,1
+2097;Chloroméquat chlorure;Chloroméquat chlorure;Divers (organiques);Reg;PA;;;;999-81-5;;C5H13Cl2N;0,1
+2522;(Code gelé en 2012 2,4-D-ester);2,4-D-ester;Divers (organiques);H;PA;;;;Non renseigné;;;0,1
+2523;2,4-D-non-ester;2,4-D;Divers (organiques);H;PA;;;;94-75-7;;;0,1
+2530;Thiocarbe;Thiocarbe;Carbamates;I;PNA;oui;1093;;3699-30-7;;;0,1
+99003;Thiocarbe;Thiocarbe;Carbamates;I;PNA;oui;1093;;3699-30-7;;;0,1
+2534;Prosulfuron;Prosulfuron;Urées;H;PA;;;;94125-34-5;;C15H16F6N5O4S;0,1
+2545;Paclobutrazole;;Azoles;Reg;PA;;;;76738-62-0;;C15H20ClN3O;0,1
+2546;Dimét(h)achlore;Teridoxe;Organochlorés;H;PA;;;;50563-36-5;;C13H18ClNO2;0,1
+2547;Fluroxypyr-meptyl;;Pyridines;H;PA;;;;81406-37-3;;C15H21Cl2FN2O3;0,1
+12246;Fluoroxypir-1-méthylheptil ester;Fluoroxypir-1-méthylheptil ester;Pyridines;H;PA;;;;81406-37-3;;C15H21Cl2FN2O3;0,1
+2563;Iodosulfuron;iodosulfuron methyl sodium;Urées;H;PA;;;;144550-36-7;;C14H13IN5NaO6S;0,1
+2565;Flupyrsulfuron méthyle;;Urées;H;PA;;;;144740-54-5;;C15H13F3N5O7SNa;0,1
+2567;Furathiocarbe;;Carbamates;I;PNA;;;;65907-30-4;12/31/2003;C18H26N2O5S;0,1
+2568;Méfluidide;;Amides;F;PA;;;;53780-34-0;10/26/2005;C11H13F3N2O3S;0,1
+2576;Pyraclostrobine;;Divers (organiques);F;PA;;;;175013-18-0;;;0,1
+2578;Mesosulfuron methyle;;Urées;H;PA;;;;208465-21-8;;;0,1
+2664;Spiroxamine;;Amines;F;PA;;;;118134-30-8;;;0,1
+2669;Picoxystrobine;;Divers (organiques);F;PA;;;;117428-22-5;;;0,1
+2678;Trifloxystrobine;;Divers (organiques);F;PA;;;;141517-21-7;;;0,1
+2722;Isothiocyanate de methyle;;Divers (organiques);FN;PNA;;;;556-61-6;;C2-H3-N-S;0,1
+2729;Cycloxydime;;Divers (organiques);H;PA;;;;101205-02-1;;;0,1
+2731;Glufosinate-ammonium;;Divers (organiques);H;PA;;;;77182-82-2;;C5H15N2O4P;0,1
+8987;Glufosinate ammonium;Glufosinate ammonium;Divers (organiques);H;;;;;77182-82-2;;C5H15N2O4P;0,1
+2525;Code gelé en version Provisoire (Desmethylnorflurazon);;Divers (organiques);;;oui;1679;Dichlobenil;;;;0,1
+2737;Desmethylnorflurazon;;Divers (organiques);;;oui;1679;Dichlobenil;23576-24-1;;C11H7ClF3N3O;0,1
+9053;Norflurazon desmethyl;Norflurazon desmethyl;Divers (organiques);H;;oui;1669;Norflurazon;23576-24-1;;;0,1
+2738;Desméthylisoproturon;;Urées;;;oui;1208;Isoproturon;34123-57-4;;C12H18N2O;0,1
+9051;1-(4-isopropyl phényl)-3-méthylurée;Monodesmethylisoproturon;Urées;;;oui;1208;Isoproturon;34123-57-4;;;0,1
+2741;3-Iodo-2-propynylbutylcarbamate;IPBC;Carbamates;F;PA;;;;55406-53-6;;;0,1
+2742;Fenazaquin;;Divers (organiques);IA;PA;;;;120928-09-8;;;0,1
+2743;Fenhexamid;;Amides;F;PA;;;;126833-17-8;;;0,1
+2744;Fosthiazate;;Organophosphorés;N;PA;;;;98886-44-3;;;0,1
+2745;MCPA_1_butyl ester;;Divers (organiques);H;PA;;;;1713-12-8;;;0,1
+2746;MCPA-2-ethylhexyl ester;;Divers (organiques);H;PA;;;;29450-45-1;;;0,1
+2747;MCPA-butoxyethyl ester;;Divers (organiques);H;PA;;;;19480-43-4;;;0,1
+2748;MCPA-ethyl-ester;;Divers (organiques);H;PA;;;;2698-38-6;;;0,1
+2749;MCPA-methyl-ester;;Divers (organiques);H;PA;;;;2436-73-9;;;0,1
+2750;Mecoprop-1-octyl ester;;Divers (organiques);H;PA;;;;161922-37-8;;;0,1
+2751;Mecoprop-2,4 4-trimethypentyl ester;;Divers (organiques);H;PA;;;;217487-13-3;;;0,1
+2752;Mecoprop-2-butoxyethyl ester;;Divers (organiques);H;PA;;;;23359-62-8;;;0,1
+2753;Mecoprop-2-ethylhexyl ester;;Divers (organiques);H;PA;;;;71526-69-7;;;0,1
+2754;Mecoprop-2-octyl ester;;Divers (organiques);H;PA;;;;28473-03-2;;;0,1
+2755;Mecoprop-methyl ester;;Divers (organiques);H;PA;;;;2786-19-8;;;0,1
+2781;Orthophénylphénol;;Composés phénoliques;F;PA;;;; 90-43-7;;C12-H10-O;0,1
+2806;Foramsulfuron;;Urées;H;PA;;;;173159-57-4;;C17H2ON6O7S;0,1
+2807;Isoxadifen-éthyle;;Divers (organiques);H;PA;;;;163520-33-0;;;0,1
+2810;Florasulam;;Azoles;H;PA;;;;145701-23-1;;;0,1
+2847;Didemethylisoproturon;;Divers (organiques);H;;oui;1208;Isoproturon;;;;0,1
+2869;(Code gelé en 2009 1 4 isopropyl phényl urée);1 4 isopropyl phényl urée;Urées;;;oui;1208;Isoproturon;56046-17-4;;;0,1
+2858;Zoxamide;;Amides;F;PA;;;;160171-18-6;;;0,1
+2859;Resméthrine;;Pyréthrinoïdes;I;PNA;;;;10453-86-8;;;0,1
+2860;Imazaquine;;Azoles;Reg;PA;;;;81335-37-7;;;0,1
+2861;Chlorfenapyr;;Azoles;I;PNA;;;;122453-73-0;09/05/2004;;0,1
+2862;Flucythrinate;;Pyréthrinoïdes;IA;PNA;;;;70124-77-5;;;0,1
+9052;1 4 isopropyl phényl urée;1 4 isopropyl phényl urée;Urées;;;oui;1208;Isoproturon;Non renseigné;;;0,1
+2870;Mecoprop-n iso-butyl ester;;Divers (organiques);H;PA;;;;;;;0,1
+2871;Ioxynil methyl ether;;Divers (organiques);H;PNA;;;;3336-40-1;;;0,1
+2872;2,4-D isopropyl ester;;Divers (organiques);H;PNA;;;;94-11-1;;;0,1
+2873;2,4-Dichlorophenoxyacetic acid methyl ester;2,4 D-methyl-ester;Divers (organiques);H;PNA;;;;1928-38-7;;;0,1
+2897;Cyromazine;;Triazines et métabolites;IA;PA;;;;66215-27-8;;C6-H10-N6;0,1
+2898;Tricyclazole;;Azoles;F;PNA;;;;41814-78-2;3/30/2010;;0,1
+2924;Benfuracarbe;;Carbamates;I;PNA;;;;82560-54-1;;;0,1
+2929;Dichlormide;;Divers (organiques);H;PNA;;;;37764-25-3;;C8-H11-Cl2-N-O;0,1
+2930;Méfenpyr diethyl;;Divers (organiques);H;PA;;;;135590-91-9;;12H10Cl2N2O4;0,1
+2931;Acetamide;2-éthyl. 6-méthyl. 2-chloro acétanilide;Amides;H;PNA;;;;32428-71-0;;;0,1
+99004;2-éthyl. 6-méthyl. 2-chloro acétanilide;;Amines;;;;;;32428-71-0;;;0,1
+2932;2-éthyl 6-méthylaniline;;Amines;;;oui;1221/1903;Métolachlore/Acétochlore;24549-06-2;;;0,1
+99005;2-éthyl, 6-méthylaniline;;Amines;;;oui;1221/1903;Métolachlore/Acétochlore;24549-06-2;;;0,1
+2933;Dodine;;Divers (organiques);F;PA;;;;03/10/2439;;;0,1
+2934;1-(3-chloro-4-methylphenyl)uree;methylphen;Urées;;;probable;1177;Diuron;Non renseigné;;;0,1
+9055;1-(3-chloro,4-méthyl phényl)-urée;methylphen;Urées;;;probable;1177;Diuron;Non renseigné;;;0,1
+2937;Azimsulfuron;;Urées;H;PA;;;;120162-55-2;;;0,1
+2938;cinidon-éthyl;;Divers (organiques);H;PA;;;;142891-20-1;;;0,1
+2941;Endrine Aldéhyde;Endrine Aldéhyde;Organochlorés;;;oui;1181;Endrine;7421-93-4;;C12H10Cl6O;0,1
+11810;Endrine Aldéhyde;Endrine Aldéhyde;Organochlorés;;;oui;1181;Endrine;7421-93-4;;C12H10Cl6O;0,1
+2942;3-Ketocarbofuran; 3-Ketocarb;Carbamates;I;PNA;oui;1130;Carbofuran;16709-30-1;12/13/2008;;0,1
+2950;Chlorfluazuron;;Urées;I;PNA;;;;71422-67-8;;;0,1
+2951;Iprovalicarb;;Carbamates;F;PA;;;;140923-17-7;;;0,1
+2965;Triclopyr méthyl ester;;Pyridines;I;;;;;60825-26-5;;;0,1
+2966;Chlorthal diméthyl;;Divers (organiques);H;PNA;;;;1861-32-1;;;0,1
+2972;Coumafène;Warfarine;Divers (organiques);R;PA;;;;81-81-2;;;0,1
+2974;S-Metolachlore;;Amides;H;PA;;;;87392-12-9;;;0,1
+2975;Carboxine;;Amides;F;PA;;;;5234-68-4;;;0,1
+2976;Carfentrazone-ethyl;;Azoles;H;PA;;;;128639-02-1;;;0,1
+2977;Chlorure de choline;;Divers (organiques);Reg;PNA;;;;67-48-1;;;0,1
+3333;Code utilisé à tort avant 2006 pour le chlorure de choline;Chlorure de choline;Hydrocarbures et indices liés;;;;;;67-48-1;;;0,1
+2978;Clethodim;;Divers (organiques);H;PA;;;;99129-21-2;;;0,1
+2979;Cyhexatin;;Organométalliques;IA;PNA;;;;13121-70-5;10/04/2009;;0,1
+2980;Desmediphame;;Carbamates;H;PA;;;;13684-56-5;;;0,1
+2981;Dichlorophene;;Composés phénoliques;H;PNA;;;;97-23-4;9/30/2007;;0,1
+2982;Difenacoum;;Divers (organiques);R;PA;;;;56073-07-5;;;0,1
+2983;Difethialone;;Divers (organiques);R;PA;;;;104653-34-1;;;0,1
+2984;Fluazinam;;Pyridines;F;PA;;;;79622-59-6;;;0,1
+2985;Flutolanil;;Amides;F;PA;;;;66332-96-5;;;0,1
+2986;Imazamox;;Azoles;H;PA;;;;114311-32-9;;;0,1
+2987;Méfénoxam;;Amides;F;PA;;;;70630-17-0;;;0,1
+2988;Propamocarbe hydrochloride;;Carbamates;F;PA;;;;25606-41-1;;;0,1
+2989;Propinèbe;;Carbamates;F;PA;;;;12071-83-9;;;0,1
+2990;Triazoxide;;Azoles;F;PNA;;;;72459-58-6;;;0,1
+2991;Triflusulfuron-methyl;;Urées;H;PA;;;;126535-15-7;;;0,1
+2992;Triticonazole;;Azoles;F;PA;;;;131983-72-7;;;0,1
+3159;2-hydroxy-desethyl-Atrazine;Atrazine déséthyl-2-hydroxy;Triazines et métabolites;;;oui;1107;Atrazine;19988-24-0;;;0,1
+12119;Atrazine déséthyl-2-hydroxy;Atrazine déséthyl-2-hydroxy;Triazines et métabolites;;;probable;1107;Atrazine;Non renseigné;;;0,1
+3160;s-Triazin-2-ol, 4-amino-6-(ethylamino)- (8CI);Atrazine déisopropyl-2-hydroxy;Triazines et métabolites;;;probable;1107;atrazine;7313-54-4;;;0,1
+12120;Atrazine déisopropyl-2-hydroxy;Atrazine déisopropyl-2-hydroxy;Triazines et métabolites;;;probable;1107;Atrazine;Non renseigné;;;0,1
+3165;4,4'-Dichlorobenzophenone;DCBP;Organochlorés;;;oui;5720;chlorobenzilate;90-98-2;;C13-H8-Cl2-O;0,1
+3209;Betacyfluthrine;;Pyréthrinoïdes;I;PA;;;;68359-37-5;;C22H18Cl2FNO3;0,1
+3210;4-Bromo-3,5-dimethylphenyl-N-methylcarbamate;;Carbamates;;;;;;672-99-1;;;0,1
+3283;2-chloro-N-(2,6-diethylphenyl)-acetamide;;Amides;;;oui;1101;Alachlore;6967-29-9;;;0,1
+99008;2-chloro-N-(2,6-diethylphenyl)-acetamide;;Amides;;;oui;1101;Alachlore;6967-29-9;;;0,1
+3285;Crotamiton;;Amides;I;PA;;;;483-63-6;;;0,1
+3334;Crimidine;;Amines;R;PA;;;;535-89-7;;C7-H10-Cl-N3;0,1
+3349;Methfuroxam;Fenfuroxam;Amides;F;;;;;28730-17-8;;C14-H15-N-O2;0,1
+5317;Cacodylic acid;Oxyde hydroxydimethylarsine;Organométalliques;H;;;;;75-60-5;;;0,1
+5413;Tecnazène;;Divers (organiques);F;PNA;;;;117-18-0;7/20/2002;;0,1
+5416;Pymétrozine;;Divers (organiques);I;PA;;;;123312-89-0;;C10-H11-N5-O;0,1
+5430;Triclosan;;Composés phénoliques;BF;;;;;3380-34-5;;;0,1
+5438;mirex;;Organochlorés;I;;;;;2385-85-5;;;0,1
+5475;Thiofanox sulfoxyde;;Carbamates;IA;;oui;1715;Thiofanox;39184-27-5;;;0,1
+5476;Thiofanox sulfone;;Carbamates;IA;;oui;1715;Thiofanox;39184-59-3;;;0,1
+5477;Simétryne;;Triazines et métabolites;H;;;;;1014-70-6;;;0,1
+5478;Diphenylamine;;Amines;F;PA;;;;122-39-4;;C12-H11-N;0,1
+5480;Ethylthiouree;;Urées;;;oui;1211;mancozebe;625-53-6;;C3-H8-N2-S;0,1
+5481;Cinosulfuron;;Urées;H;PNA;;;;94593-91-6;12/31/2004;C15-H19-N5-O7-S;0,1
+5482;Chlorfenethol;Chlorfenet;Organochlorés;IA;;;;;80-06-8;;;0,1
+5483;Indoxacarbe;;Carbamates;I;PA;;;; 173584-44-6;;C22-H17-Cl-F3-N3-O7;0,1
+5484;Ethyluree;;Urées;;;oui;1211 et 1705;mancozebe et manèbe;625-52-5;;C3-H8-N2-O;0,1
+5485;Endrin ketone;;Organochlorés;I;;oui;1181;endrine;;;;0,1
+5488;Primisulfuron methyl;;Urées;H;PNA;;;;86209-51-0;;;0,1
+5499;Pyriproxyfène;;Divers (organiques);I;PA;;;;95737-68-1;;;0,1
+5501;Diclofop;;Divers (organiques);H;;;;;40843-25-2;;;0,1
+99010;Diclofop;;Divers (organiques);H;PA;;;;40843-25-2;;;0,1
+5507;Sulfomethuron-methyl;;Urées;H;PNA;;;;74222-97-2;;;0,1
+5508;Halosulfuron-methyl;;Urées;H;;;;; 100784-20-1;;;0,1
+5509;Pyraflufen-ethyl;;Azoles;H;PA;;;;129630-19-9;;;0,1
+5510;Oxasulfuron;;Urées;H;PNA;;;;144651-06-9;;;0,1
+5511;Methoxyfenoside;;Divers (organiques);I;PA;;;;161050-58-4;;;0,1
+5512;Bensulfuron-methyl;londax;Urées;H;PA;;;;83055-99-6;;;0,1
+5513;Endothal;;Divers (organiques);Reg;;;;;145-73-3;;;0,1
+5522;Chlorimuron-ethyl;;Urées;H;;oui;;chlorimuron;90982-32-4;;;0,1
+5523;Aminocarbe;;Carbamates;I;PNA;;;;2032-59-9;;;0,1
+5524;Difenoxuron;Pinoran, Lironion;Urées;H;;;;;14214-32-5;;;0,1
+5525;Dicrotophos;;Organophosphorés;I;PNA;;;;141-66-2;;;0,1
+5526;Boscalid;;Divers (organiques);F;PA;;;;188425-85-6;;;0,1
+5527;Ethoxysulfuron;;Urées;H;PNA;;;;126801-58-9;;;0,1
+5528;Ethiofencarbe sulfone;;Carbamates;I;;;;;53380-23-7;;;0,1
+5529;Ethametsulfuron-methyl;;Urées;H;PNA;;;;;;;0,1
+5530;Pyriftalid;;Divers (organiques);H;;;;;135186-78-6;;;0,1
+5531;Pirimicarbe Desmethyl;;Carbamates;A;;probable;1528;Pirimicarbe;30614-22-3;;;0,1
+5532;Pirimicarbe Formamido Desmethyl;;Carbamates;A;;probable;1528;Pirimicarbe;27218-04-8;;;0,1
+5533;Mepanipyrim;;Pyridines;F;PA;;;;110235-47-7;;C14-H13-N3;0,1
+1181;Endrine;Endrine;Organochlorés;I;PNA;;;;72-20-8;10/04/1994;C12H8Cl6O;0,1
+1207;Isodrine;Isodrine;Organochlorés;I;PNA;;;;465-73-6;;C12H8Cl6;0,1
+1200;Hexachlorocyclohexane alpha;Hexachlorocyclohexane alpha;Organochlorés;I;PNA;;;;319-84-6;;C6H6Cl6;0,1
+1201;Hexachlorocyclohexane bêta;Hexachlorocyclohexane bêta;Organochlorés;I;PNA;;;;319-85-7;;C6H6Cl6;0,1
+1202;Hexachlorocyclohexane delta;Hexachlorocyclohexane delta;Organochlorés;I;PNA;;;;319-86-8;;C6H6Cl6;0,1
+1203;Hexachlorocyclohexane gamma;Lindane;Organochlorés;I;PNA;;;;58-89-9;07/01/1998;C6H6Cl6;0,1
+1956;(Code gelé en 2010 Hexachlorocyclohexane);;Organochlorés;;;;;;;;;0,1
+2046;Hexachlorocyclohexane epsilon;Hexachlorocyclohexane epsilon;Organochlorés;I;SO;;;;07/10/6108;;C6H6Cl6;0,1
+5537;HCH isomères;HCH isomères;Organochlorés;I;PNA;;;;608-73-1;;C6H6Cl6;0,1
+12003;Hexachlorocyclohexane;;Organochlorés;;;;;;;;;0,1
+5542;Bensultap;;Divers (organiques);I;PNA;;;;17606-31-4;;;0,1
+5543;Bentazone-sodium;;Diazines;H;;;;;50723-80-3;;;0,1
+5544;Benzoximate;;Divers (organiques);A;PNA;;;;29104-30-1;;;0,1
+5545;Bifenazate;;Divers (organiques);A;PA;;;;149877-41-8;;;0,1
+5546;Brodifacoum;;Composés phénoliques;R;PA;;;;56073-10-0;;;0,1
+5547;Halfenprox;;Divers (organiques);A;PNA;;;; 111872-58-3;12/31/2003;;0,1
+5548;Bromethaline;;Divers (organiques);R;PNA;;;;63333-35-7;;;0,1
+5549;Bromoxynil heptanoate;;Divers (organiques);H;PNA;;;;56634-95-8;;;0,1
+5551;Chlorate de sodium;;Autres éléments minéraux;H;PNA;;;; 7775-09-9;10/10/2010;;0,1
+5552;Chlorflurenol;;Divers (organiques);H;PNA;;;;2464-37-1;;;0,1
+5553;Chlorefenizon;Chlorfenson;Divers (organiques);IA;PNA;;;;80-33-1;;;0,1
+5554;Chlormequat;;Divers (organiques);Reg;PA;;;;7003-89-6;;;0,1
+5555;Chlozolinate;;Divers (organiques);F;PNA;;;;84332-86-5;3/31/2002;;0,1
+5556;Sintofen;;Divers (organiques);Reg;PA;;;;130561-48-7;;;0,1
+5557;Clofencet-potassium;;Divers (organiques);Reg;PNA;;;;82697-71-0;12/31/2004;;0,1
+5558;Clopyralid-olamine;;Divers (organiques);H;;;;; 57754-85-5;;;0,1
+5559;Codlemone;codlelure;Divers (organiques);I;PA;;;;33956-49-9;;;0,1
+5561;hydroxyde de cuivre;;Metaux et métalloïdes;F;;;;;;;;0,1
+5562;oxychlorure de cuivre;;Metaux et métalloïdes;F;;;;;1332-65-6;;;0,1
+5563;oxyde cuivreux;;Autres éléments minéraux;F;;;;;1317-39-1;;;0,1
+5564;sulfate tribasique de cuivre;;Metaux et métalloïdes;F;PA;;;;1333-22-8;;;0,1
+5565;Cyanamide calcique;;Divers (organiques);Reg;;;;; 156-62-7;;;0,1
+5566;Cyanamide;;Divers (organiques);Reg;;;;;420-04-2;;;0,1
+5567;Cyazofamid;;Divers (organiques);F;PA;;;;120116-88-3;;;0,1
+5568;Cycloate;;Chloroalcanes;H;PNA;;;;1134-23-2;12/31/2003;;0,1
+5569;Cyhalofop-butyl;;Divers (organiques);H;PA;;;; 122008-85-9;;;0,1
+5571;2,4-D-dimethylammonium;;Divers (organiques);H;;;;;2008-39-1;;;0,1
+5572;2,4-DB Butoxyethyl ester;;Divers (organiques);H;;;;;32357-46-3;;;0,1
+5573;2,4-DB-dimethylammonium;;Divers (organiques);H;;;;;2758-42-1;;;0,1
+5574;2,4-MCPB sodium;;Divers (organiques);H;;;;;6062-26-6;;;0,1
+5575;acide 4-chlorophénoxyacétique;;Divers (organiques);H;;;;;122-88-3;;;0,1
+5576;Benzyladenine;;Divers (organiques);Reg;PNA;;;;1214-39-7;;;0,1
+5578;abamectine B1a;;Divers (organiques);I;PA;;;;65195-55-3;;;0,1
+5579;Acetamiprid;;Divers (organiques);I;PA;;;;135410-20-7;;;0,1
+5581;Acibenzolar-S-Methyl;;Divers (organiques);F;PA;;;;135158-54-2;;;0,1
+5586;Alloxydim-sodium;;Divers (organiques);H;PNA;;;;55635-13-7;;;0,1
+5588;Ampropylfos;;Organophosphorés;F;PNA;;;;16606-64-7;;;0,1
+5589;Ancymidole;;Divers (organiques);Reg;PNA;;;;12771-68-5;;;0,1
+5590;Anilazine;;Triazines et métabolites;F;PNA;;;;101-05-3;;;0,1
+5592;Asulam-sodium;;Carbamates;H;PA;;;;2302-17-2;;;0,1
+5593;Azocyclotin;;Organométalliques;IA;PNA;;;;41083-11-8;10/04/2009;;0,1
+5595;Benazolin-ethyl;;Azoles;H;PNA;;;;25059-80-7;;;0,1
+5596;Dalapon-sodium;;Divers (organiques);H;;;;;127-20-8;;;0,1
+5597;Daminozide;;Divers (organiques);Reg;PA;;;;1596-84-5;;;0,1
+5598;Dialiphos;;Divers (organiques);IA;PNA;;;;10311-84-9;12/31/2003;;0,1
+5599;Dicamba-sodium;;Divers (organiques);H;PA;;;;1982-69-0;;;0,1
+5600;Dichlone;;Divers (organiques);F;PNA;;;;117-80-6;;;0,1
+5601;Dichlorprop-butotyl;;Divers (organiques);H;;;;;53404-31-2;;;0,1
+5602;Propoxycarbazone-sodium;;Divers (organiques);H;PA;;;;181274-15-7;;;0,1
+5603;Prothioconazole;;Azoles;F;PA;;;;178928-70-6;;;0,1
+5604;Prothoate;;Organophosphorés;IA;PNA;;;;2275-18-5;;;0,1
+5606;Pyridaphenthion;;Organophosphorés;H;PNA;;;;119-12-0;12/31/2003;;0,1
+6593;(Code supprimé en 2011 Pyridaphention);;Organophosphorés;I;PNA;;;;119-12-0;12/31/2003;;0,1
+5607;Quinclorac;;Divers (organiques);H;PNA;;;;84087-01-4;12/31/2004;;0,1
+5608;Scilliroside;;Divers (organiques);R;PA;;;;507-60-8;;;0,1
+5609;Silthiopham;;Divers (organiques);F;PA;;;;175217-20-6;;;0,1
+5610;Spinosad;;Divers (organiques);I;PA;;;;168316-95-8;;;0,1
+5611;Sulfamate d'ammonium;;Autres éléments minéraux;H;PNA;;;;7773-06-0;6/30/2008;;0,1
+5613;Dienochlore;;Organochlorés;IA;PNA;;;;2227-17-0;12/31/2003;;0,1
+5614;Difenamide;;Divers (organiques);H;PNA;;;;957-51-7;12/31/2003;;0,1
+5615;Difenzoquat;;Divers (organiques);H;PNA;;;;49866-87-7;12/31/2003;;0,1
+5616;Acide diprogulique;dikegulac;Divers (organiques);Reg;PNA;;;;18467-77-1;;;0,1
+5617;Dimethenamid-P;Dimethenamid-P;Amides;H;PA;;;;163515-14-8;;;0,1
+5618;Dimethipin;;Divers (organiques);Reg;PNA;;;;55290-64-7;02/02/2009;;0,1
+5619;Dinocap;;Composés phénoliques;IA;PNA;;;;39300-45-3;12/31/2009;;0,1
+5620;Diphacinone;;Divers (organiques);R;PA;;;;82-66-6;;;0,1
+5621;Diquat dibromide;;Divers (organiques);H;;;;;85-00-7;;;0,1
+5622;Dodemorphe;;Divers (organiques);F;PA;;;;1593-77-7;;;0,1
+5623;Ethoxyquine;;Divers (organiques);F;PNA;;;;91-53-2;12/31/2011;;0,1
+5624;Etofenprox;;Organophosphorés;I;PA;;;;80844-07-1;;;0,1
+5625;Etoxazole;;Divers (organiques);IA;PA;;;;153233-91-1;;;0,1
+5626;Fenclorim;;Divers (organiques);H;PNA;;;; 3740-92-9;;;0,1
+5627;Fenizon;;Divers (organiques);IA;PNA;;;;80-38-6;;;0,1
+5628;Fenoxaprop-P-ethyl;;Divers (organiques);H;PA;;;;71283-80-2;;;0,1
+5629;Fenpiclonil;;Divers (organiques);F;PNA;;;;74738-17-3;12/31/2003;;0,1
+5630;Fenpyroximate;;Divers (organiques);IA;PA;;;;134098-61-6;;;0,1
+5631;L-Flamprop-isopropyl;;Divers (organiques);H;;;;;57973-67-8;;;0,1
+5632;Flamprop-M;;Divers (organiques);H;PNA;;;;90134-59-1;12/31/2004;;0,1
+5633;Flocoumafen;;Divers (organiques);R;PA;;;;90035-08-8;;;0,1
+5636;Fluoroglycofen;;Divers (organiques);H;PNA;;;;77501-60-1;12/31/2003;;0,1
+5638;Fluoxastrobine;;Divers (organiques);F;PA;;;;361377-29-9;;;0,1
+5639;Flupoxam;;Divers (organiques);H;PNA;;;;119126-15-7;12/31/2003;;0,1
+5640;Gibberellin A3;;Divers (organiques);Reg;PNA;;;; 77-06-5;;;0,1
+5641;Gibberelline a4a7;;Divers (organiques);Reg;PA;;;;8030-53-3;;;0,1
+5643;Guazatinacetate;;Divers (organiques);F;PNA;;;;115044-19-4;;;0,1
+5644;Hydramethylnon;;Divers (organiques);I;PA;;;; 67485-29-4;;;0,1
+5646;Hymexazol;;Azoles;F;PA;;;;10004-44-1;;;0,1
+5648;Ethylenethiouree;ETU;Fongicides;F;;;;;96-45-7;;;0,1
+5649;Fosamine-ammonium;;Organophosphorés;H;PNA;;;;25954-13-6;12/31/2003;;0,1
+5653;Methoprene;;Divers (organiques);I;PNA;;;;40596-69-8;12/31/2003;;0,1
+5654;Metrafenone;;Divers (organiques);F;PA;;;;220899-03-6;;;0,1
+5655;Milbemectin;;Divers (organiques);IA;PA;;;;51596-10-2;;;0,1
+5656;Monalide;;Divers (organiques);H;PNA;;;;7287-36-7;12/31/2003;;0,1
+5658;Nitralin;;Divers (organiques);H;PNA;;;;4726-14-1;12/31/2003;;0,1
+5660;Oxycarboxine;;Divers (organiques);F;PNA;;;;5259-88-1;12/31/2003;;0,1
+5661;Paraquat dichloride;;Divers (organiques);H;;;;;1910-42-5;;;0,1
+5663;Picloram-isoctyl;;Divers (organiques);H;PA;;;;26952-20-5;;;0,1
+5664;Picloram-potassium;;Divers (organiques);H;PA;;;;2545-60-0;;;0,1
+5665;Picolinafen;;Divers (organiques);H;PA;;;;137641-05-5;;;0,1
+5667;Prochloraze manganese;;Divers (organiques);H;PA;;;;75747-77-2;;;0,1
+5668;Prohexadione-calcium;;Divers (organiques);Reg;PA;;;;127277-53-6;;;0,1
+5669;Tepraloxydim;;Divers (organiques);H;PNA;;;;149979-41-9;;;0,1
+5671;Thiacloprid;;Divers (organiques);I;PA;;;;111988-49-9;;;0,1
+5675;Tolclofos-methyl;;Organophosphorés;F;PA;;;;57018-04-9;;;0,1
+5676;Tralkoxydime;;Divers (organiques);H;PNA;;;;87820-88-0;;;0,1
+5679;Triclopyr-butotyl;;Divers (organiques);I;;;;;64700-56-7;;;0,1
+5685;2,3,5-Trimethacarb;;Carbamates;RepO;PNA;;;;2655-15-4;;;0,1
+5686;2,4,5-T methyl ester;2,4,5TMeEs;Divers (organiques);H;;;;;1928-37-6;;;0,1
+5687;2,4-D sec-butyl ester;;Divers (organiques);H;;;;;94-79-1;;;0,1
+5691;Fenoxaprop;;Divers (organiques);H;;;;;95617-09-7;;;0,1
+5695;3,4,5-Trimethacarb;;Carbamates;I;PNA;;;;2686-99-9;;;0,1
+5697;Amidithion;;Organophosphorés;IA;;;;;919-76-6;;;0,1
+5698;Atraton;;Triazines et métabolites;H;;;;;1610-17-9;;;0,1
+5699;Aziprotryne;;Triazines et métabolites;H;;;;;4658-28-0;;;0,1
+5701;Barban;;Divers (organiques);H;PNA;;;;101-27-9;;;0,1
+5702;Benfuresate;;Divers (organiques);H;;;;;68505-69-1;;;0,1
+5703;Benodanil;;Divers (organiques);F;;;;;15310-01-7;;;0,1
+5705;Benzoylprop ethyl;;Divers (organiques);H;PNA;;;;22212-55-1;;;0,1
+5706;Bioallethrin S-cyclopentenyl isomer;;Divers (organiques);I;PA;;;;28434-00-6;;;0,1
+5707;Bromobutide;;Divers (organiques);H;;;;;74712-19-9;;;0,1
+5708;Bromocyclen;;Organochlorés;IA;;;;;1715-40-8;;;0,1
+5709;Butachlor;;Divers (organiques);H;PNA;;;;23184-66-9;;;0,1
+5710;Butamifos;;Organophosphorés;H;;;;;36335-67-8;;;0,1
+5711;Butoxycarboxim;;Carbamates;I;PNA;;;;34681-23-7;;;0,1
+5713;Chloramben methyl ester;;Divers (organiques);H;;;;;7286-84-2;;;0,1
+5714;Chloranocryl;;Divers (organiques);H;;;;;02/09/2164;;;0,1
+5715;Chlorbenside;;Organochlorés;I;PNA;;;;103-17-3;;;0,1
+5716;Chlordimeform;;Divers (organiques);I;PNA;;;;6164-98-3;;;0,1
+5717;Chlorfenprop-methyl;;Divers (organiques);H;;;;;14437-17-3;;;0,1
+5718;Chlorflurenol-methyl ester;;Divers (organiques);H;;;;;2536-31-4;;;0,1
+5719;Chlornitrofen;;Organochlorés;H;;;;;1836-77-7;;;0,1
+5720;Chlorobenzilate;;Divers (organiques);IA;PNA;;;;510-15-6;;C16-H14-Cl2-O3;0,1
+5721;Chloropropylate;, chlormite;Divers (organiques);IA;PNA;;;;02/10/5836;;;0,1
+5722;Chlorthion;;Urées;I;;;;;500-28-7;;;0,1
+5723;Chlorthiophos;;Organophosphorés;IA;;;;; 60238-56-4;;;0,1
+5724;Crotoxyphos;;Organophosphorés;IA;;;;;7700-17-6;;;0,1
+5725;Crufomate;;Organophosphorés;I;;;;;299-86-5;;;0,1
+5726;Cyanofenphos;;Divers (organiques);I;;;;;13067-93-1;;;0,1
+5727;Cyanophos;;Organophosphorés;I;PNA;;;;2636-26-2;;;0,1
+5728;Cyprazine;;Triazines et métabolites;I;;;;;22936-86-3;;;0,1
+5729;Cyprofuram;;Divers (organiques);F;;;;;69581-33-5;;;0,1
+5730;Desbromo-bromobutide;;Divers (organiques);H;;;;;75463-73-9;;;0,1
+5731;Dicapthon;;Organophosphorés;I;;;;;2463-84-5;;;0,1
+5732;Dichlorprop methyl ester;;Divers (organiques);H;PNA;;;;57153-17-0;;;0,1
+5733;Dicloran;;Divers (organiques);I;PNA;;;;99-30-9;3/18/2010;;0,1
+5735;Diethatyl ethyl;;Divers (organiques);H;PNA;;;;38727-55-8;;;0,1
+5737;Dimethametryn;;Triazines et métabolites;H;;;;;22936-75-0;;;0,1
+5738;Dinitramine;;Divers (organiques);H;PNA;;;;29091-05-2;;;0,1
+5739;Dinobuton;;Divers (organiques);IA;PNA;;;;973-21-7;;;0,1
+5740;Dinoseb acetate;;Divers (organiques);IA;;;;;2813-95-8;;;0,1
+5741;Dinoseb methyl ether;;Divers (organiques);IA;;;;;6099-79-2;;;0,1
+5742;Dinoterb acetate;;Divers (organiques);IA;;;;;3204-27-1;;;0,1
+5743;Dioxacarb;;Carbamates;I;PNA;;;;6988-21-2;;;0,1
+5744;Dipropetryn;;Triazines et métabolites;H;;;;;4147-51-7;;;0,1
+5745;Ditalimfos;;Organophosphorés;IA;PNA;;;;5131-24-8;;;0,1
+5746;Dithiopyr;;Divers (organiques);H;PNA;;;;97886-45-8;;;0,1
+5747;Drazoxolon;;Divers (organiques);F;;;;;5707-69-7;;;0,1
+5748;Dimoxystrobine;;Divers (organiques);F;PA;;;;;;;0,1
+5749;Carfentrazone;;Divers (organiques);H;;;;;128621-72-7;;;0,1
+5750;Desethylterbutylazine-2-hydroxy;;Triazines et métabolites;;;oui;1268;terbuthylazine;21087-57-0;;C7-H13-N5-O;0,1
+5751;Edifenphos;;Organophosphorés;F;PNA;;;;17109-49-8;;;0,1
+5752;Endosulfan ether;;Organochlorés;I;;;;;;;;0,1
+5753;Endosulfan lactone;;Organochlorés;I;;;;;;;;0,1
+5754;Erbon;;Divers (organiques);H;;;;;136-25-4;;;0,1
+5755;Esprocarb;;Carbamates;H;;;;; 85785-20-2;;;0,1
+5756;Etaconazole;;Divers (organiques);F;;;;; 60207-93-4;;;0,1
+5757;Ethalfluraline;;Divers (organiques);H;PNA;;;;55283-68-6;12/31/2011;;0,1
+5758;Ethiolate;;Carbamates;H;;;;;2941-55-1;;;0,1
+5759;Etridiazole;;Divers (organiques);F;PNA;;;;2593-15-9;12/31/2011;;0,1
+5760;Etrimfos;;Pyridines;I;PNA;;;;38260-54-7;;;0,1
+5761;Famphur;;Organophosphorés;I;;;;;52-85-7;;;0,1
+5762;Fenazaflor;;Divers (organiques);IA;;;;;14255-88-0;;;0,1
+5763;Fenobucarb;;Carbamates;I;PNA;;;;3766-81-2;;;0,1
+5764;Fenoprop methyl ester;;Divers (organiques);H;PNA;;;;4841-20-7;;;0,1
+5765;Fensulfothion;;Organophosphorés;I;PNA;;;;115-90-2;;;0,1
+5766;Fenthion sulfoxide;mesulfenfos;Organophosphorés;I;;;;;3761-41-9;;;0,1
+5767;Flubenzimine;;Divers (organiques);IA;PNA;;;; 37893-02-0;;;0,1
+5768;Fluchloralin;;Divers (organiques);H;PNA;;;;33245-39-5;;;0,1
+5769;Flumetralin;;Divers (organiques);Reg;;;;;62924-70-3;;;0,1
+5770;Fluorodifen;;Divers (organiques);H;;;;; 15457-05-3;;;0,1
+5771;Flurenol-butyl ester;;Divers (organiques);Reg;;;;;02/09/2314;;;0,1
+5772;Flurenol-methylester;;Divers (organiques);Reg;;;;;1216-44-0;;;0,1
+5773;Fuberidazole;;Divers (organiques);F;;;;;3878-19-1;;;0,1
+5774;Furmecyclox;;Divers (organiques);F;;;;;60568-05-0;;;0,1
+5777;Iprobenfos;;Organophosphorés;F;PNA;;;; 26087-47-8;;;0,1
+5779;Isocarbamide;;Divers (organiques);H;;;;;30979-48-7;;;0,1
+5780;Isomethiozin;;Divers (organiques);H;;;;;57052-04-7;;;0,1
+5781;Isoprocarb;;Carbamates;I;PNA;;;;2631-40-5;;;0,1
+5782;Isopropalin;;Divers (organiques);H;;;;;33820-53-0;;;0,1
+5783;Isoprothiolane;;Divers (organiques);I;;;;;50512-35-1;;;0,1
+5784;Isoxathion;;Organophosphorés;I;PNA;;;;18854-01-8;12/31/2003;;0,1
+5785;Leptophos;;Organophosphorés;I;PNA;;;;21609-90-5;;;0,1
+5786;Leptophos oxon;;Organophosphorés;I;;;;;25006-32-0;;;0,1
+5787;Malathion-o-analog;malaoxon;Organophosphorés;I;;oui;1210;Malathion;1634-78-2;;;0,1
+5788;MCPB methyl ester;;Divers (organiques);H;;;;;57153-18-1;;;0,1
+5789;Mecarbam;;Organophosphorés;I;PNA;;;;2595-54-2;;;0,1
+5790;Menazon;;Organophosphorés;I;;;;;78-57-9;;;0,1
+5791;Mephosfolan;;Organophosphorés;I;;;;;950-10-7;;;0,1
+5792;Methacrifos;;Organophosphorés;IA;PNA;;;;62610-77-9;;;0,1
+5793;Methyl paraoxon;;Organophosphorés;I;;oui;1233;Parathion méthyl;950-35-6;;;0,1
+5795;Methyldymron;;Urées;H;;;;;42609-73-4;;;0,1
+5796;Metolcarb;;Carbamates;IA;;;;;1129-41-5;;;0,1
+5800;Nitrapyrin;;Organochlorés;B;PNA;;;;1929-82-4;;;0,1
+5801;Nitrothal-isopropyl;;Divers (organiques);F;PNA;;;;10552-74-6;;;0,1
+5804;Chlorthiophos sulfone;;Organophosphorés;IA;;;;;;;;0,1
+5805;Oxabetrinil;;Divers (organiques);H;;;;;74782-23-3;;;0,1
+5806;Paraoxon;;Organophosphorés;I;;oui;;Parathion;311-45-5;;;0,1
+5807;Pebulate;;Carbamates;H;PNA;;;;1114-71-2;;;0,1
+5809;Pentanochlor;;Divers (organiques);H;;;;;2307-68-8;;;0,1
+5811;Phenkapton;;Organophosphorés;IA;;;;;2275-14-1;;;0,1
+5813;Phenthoate;;Organophosphorés;I;PNA;;;;07/03/2597;;;0,1
+5814;Phosfolan;;Organophosphorés;I;;;;;947-02-4;;;0,1
+5815;Phthalide;;Divers (organiques);F;;;;;87-41-2;;;0,1
+5816;Picloram methyl ester;;Divers (organiques);H;;;;;14143-55-6;;;0,1
+5817;Pindone;;Divers (organiques);R;;;;;83-26-1;;;0,1
+5818;Piperalin;;Divers (organiques);F;;;;;3478-94-2;;;0,1
+5819;Piperophos;;Organophosphorés;H;;;;;24151-93-7;;;0,1
+5820;Plifenat;;Divers (organiques);I;;;;;21757-82-4;;;0,1
+5822;Probenazole;;Divers (organiques);F;;;;;27605-76-1;;;0,1
+5823;Profluralin;;Divers (organiques);H;;;;;26399-36-0;;;0,1
+5824;Prothiofos;;Organophosphorés;I;;;;;34643-46-4;;;0,1
+5825;Pyracarbolid;;Divers (organiques);F;PNA;;;;24691-76-7;;;0,1
+5826;Pyributicarb;;Carbamates;H;;;;;88678-67-5;;;0,1
+5827;Pyridinitril;;Divers (organiques);H;;;;;1086-02-8;;;0,1
+5828;Pyroquilon;;Divers (organiques);F;;;;;57369-32-1;;;0,1
+5829;S,S,S-Tributylphosphorotrithioate;;Organophosphorés;H;;;;;78-48-8;;;0,1
+5831;Sulprofos;;Organophosphorés;I;PNA;;;;35400-43-2;;;0,1
+5832;Swep;;Divers (organiques);H;;;;;1918-18-9;;;0,1
+5834;TCMTB;;Divers (organiques);F;;;;;21564-17-0;;;0,1
+5835;Terbucarb;;Carbamates;H;;;;; 1918-11-2;;;0,1
+5836;Tetrapropyl thiodiphosphate;;Organophosphorés;I;;;;;3244-90-4;;;0,1
+5837;Tetrasul;;Divers (organiques);IA;PNA;;;;2227-13-6;;;0,1
+5838;Thionazin;;Organophosphorés;N;;;;;297-97-2;;;0,1
+5839;Triamiphos;;Organophosphorés;F;;;;;1031-47-6;;;0,1
+5840;Tributyl phosphorotrithioite;;Organophosphorés;Reg;;;;;150-50-5;;;0,1
+5841;Tridiphane;;Organophosphorés;H;PNA;;;;58138-08-2;;;0,1
+5842;Trietazine;;Triazines et métabolites;H;;;;;1912-26-1;;;0,1
+5843;Triflumizole;;Divers (organiques);F;PNA;;;;99387-89-0;3/18/2010;;0,1
+5844;Tycor;;Triazines et métabolites;H;;;;;64529-56-2;;;0,1
+5845;Uniconizole-P;;Divers (organiques);F;;;;;83657-17-4;;;0,1
+5846;N-Methyl-N-1-naphthyl acetamide;;Divers (organiques);IA;;;;;85-07-4;;;0,1
+5920;di 1 p menthene;;Hydrocarbures et indices liés;Reg;PA;;;;31393-98-3;;;0,1
+5921;Tetramethrin;;Divers (organiques);I;PA;;;;7696-12-0;;;0,1
+5922;Tiocarbazil;;Carbamates;H;;;;;36756-79-3;;;0,1
+5929;1-(4-chlorophényl)urée;1-4-cpurée;Urées;H;;;;;140-38-5;;;0,1
+5930;Daimuron;;Urées;H;;;;;42609-52-9;;;0,1
+5934;Thidiazuron;;Urées;H;PNA;;;;51707-55-2;10/04/2009;;0,1
+5968;Propazine 2-hydroxy;;Urées;H;;probable;1256;Propazine;7374-53-0;;;0,1
+5969;Forchlorfenuron;;Urées;Reg;;;;;68157-60-8;;;0,1
+5970;Fenothiocarbe;;Carbamates;IA;PNA;;;;62850-32-2;;;0,1
+5971;Trietazine desethyl;;Triazines et métabolites;;;probable;5842;Trietazine;38902-68-0;;;0,1
+5981;Sebutylazine desethyl;;Urées;H;;oui;1923;sebutylazine;;;;0,1
+6101;Sebuthylazine 2-hydroxy;;Triazines et métabolites;;;probable;1923;sebutylazine;33124-61-7;;;0,1
+6102;Trietazine 2-hydroxy;;Triazines et métabolites;;;probable;5842;Trietazine;15352-25-7;;;0,1
+6111;2H-1,4-Benzoxazin-3(4H)-one;;Triazines et métabolites;;;;;;5466-88-6;;;0,1
+6167;Aramite;;Divers (organiques);I;PNA;;;;140-57-8;;;0,1
+6214;Propylene thiouree;;Urées;;;oui;;;2122-19-2;;;0,1
+6260;1-(2,6-Dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethanesul fonyl-5-aminopyrazole;fipronil sulfone;Azoles;I;;probable;2009;;120068-36-2;;;0,1
+6261;5-Amino-1-(2,6-dichloro-4-trifluoromethylphenyl)-3-cyano-4-trifluoromethylthiopyrazole;Fipronil sulfide;Azoles;;;probable;2009;;120067-83-6;;;0,1
+6262;Fipronil desulfinyl;;Azoles;;;oui;;Fipronil;;;;0,1
+6269;Pesticides organo-chlorés;;Organochlorés;;;;;;;;;0,1
+12143;Total des substances;Total des substances;;;SO;;;;Non renseigné;;;0,1
+6334;Hydrochlordecone;;Organochlorés;I;PNA;;;; 53308-47-7;;;0,1
+6358;Pyridafol;;Divers (organiques);H;;;;;40020-01-7;;;0,1
+6385;Pyrazosulfuron;;Urées;H;;;;;98389-04-9;;;0,1
+6386;Pyrazosulfuron-ethyl;;Urées;H;PNA;;;;93697-74-6;;;0,1
+6389;Clothianidin;;Azoles;I;PNA;;;;210880-92-5;;;0,1
+6390;Thiamethoxam;;Divers (organiques);I;PA;;;;153719-23-4;;;0,1
+6391;Cumyluron;;Urées;H;;;;;99485-76-4;;;0,1
+6392;Benthiavalicarb;;Carbamates;F;PA;;;;413615-35-7;;;0,1
+6393;Flonicamid;;Amides;I;PA;;;;158062-67-0;;;0,1
+6394;Penoxsulam;;Amides;H;PA;;;;219714-96-2;;;0,1
+6398;Propamocarb;;Carbamates;F;PNA;;;;24579-73-5;;;0,1
+6399;Mandipropamid;;Amides;F;PA;;;;374726-62-2;;;0,1
+6483;iodosulfuron-methyl-sodium;;Urées;;;oui;2563;Iodosulfuron;;;;0,1
+1404;Fluazifop-P-butyl;Fluazifop-P-butyl;Divers (organiques);H;PA;;;;79241-46-6;;C19H20F3NO4;0,1
+1825;Fluazifop-butyl;Fluazifop-butyl;Divers (organiques);H;PNA;;;;69806-50-4;;C19H20F3NO4;0,1
+5634;Fluazifop-P;;Divers (organiques);H;;;;;83066-88-0;;;0,1
+6545;Fluazifop;;Divers (organiques);H;;;;;69335-91-7;;;0,1
+99001;Fluasifop-méthyl;;Divers (organiques);H;;;;;;;;0,1
+6553;Chloralose;;Organochlorés;RepO;PNA;;;;15879-93-3;12/21/2010;;0,1
+6558;Chlorpyrifos oxon;;Organophosphorés;;;oui;1083;Chlorpyrifos;5598-15-2;;;0,1
+99022;Chlopymifos;;Organophosphorés;I;;oui;1083;Chlorpyrifos;5598-15-2;;;0,1
+6577;Chlordécone 5b hydro;;Organochlorés;I;PNA;;;;;;;0,1
+99013;Chlordécone 5b hydro;;Organochlorés;I;PNA;;;;;;;0,1
+6594;Anilofos;;Organophosphorés;H;PNA;;;;64249-01-0;;;0,1
+6595;Bensulide;;Organophosphorés;H;PNA;;;;741-58-2;;;0,1
+6596;Isocarbophos;;Organophosphorés;IA;PNA;;;;24353-61-5;;;0,1
+6597;Isonoruron [Iso];;Urées;H;;;;;28805-78-90;;;0,1
+6601;Ethyleneuree;EU;Fongicides;F;;oui;1211;Mancozebe;120-93-4;;;0,1
+6602;Bromfenvinphos;;Organophosphorés;I;;;;;33399-00-7;;;0,1
+6603;Climbazole;;Azoles;F;;;;;38083-17-9;;;0,1
+6604;Dimefox;;Organophosphorés;IA;;;;;115-26-4;;;0,1
+6605;Dioxation;;Divers (organiques);IA;PNA;;;;78-34-2;;;0,1
+6610;Fluotrimazole;;Azoles;F;;;;; 57381-79-0;;;0,1
+6611;Pyraclofos;;Organophosphorés;I;PNA;;;;89784-60-1;;;0,1
+6606;Fenvalerate RR;;Divers (organiques);IA;;;;;;;;0,1
+6608;Esfenvalerate SS;;Divers (organiques);IA;;;;;;;;0,1
+6607;Fenvalerate RS;;Divers (organiques);IA;;;;;;;;0,1
+6609;Esfenvalerate SR;;Divers (organiques);IA;;;;;;;;0,1
+6629;Cyphenothrin;;Pyréthrinoïdes;I;;;;;39515-40-7;;;0,1
+6632;Dioxabenzofos;;Organophosphorés;I;PNA;;;;3811-49-2;;;0,1
+6636;Chlorure de didecyl dimethyl ammonium;;Divers (organiques);F;PA;;;;7173-51-5;;;0,1
+6637;Quizalofop ethyl P;;Divers (organiques);H;PA;;;;100646-51-3;;;0,1
+6662;Sulfluramid;;Amides;IA;;;;;4151-50-2;;;0,1
+6664;Methyl triclosan;;Composés phénoliques;;;oui;5430;Triclosan;01/01/4640;;;0,1
+6696;Dicyclanil;;Divers (organiques);I;;;;;112636-83-6;;;0,1
+6800;Alachlor ESA;Alachlor ESA;Chloroacétamide;H;PNA;oui;1101;alachlore;142363-53-9;;C14H21NO5S;0,1
+6807;Pyrimidinamine;Pyrimidina;Urées;H;PA;oui;2085;Sulfosulfuron [2085;27043-39-6;;C4H5N3 ;0,1
+6808;1,2,4-Triazole;;Azoles;;;;;;288-88-0;;;0,1
+6809;2-Amino-N-isopropyl-benzamide;2-Amino-N-isopropyl-benzamide;Diazines;;;oui;1105;Bentazone;30391-89-0;;C10H14N2O;0,1
+6815;Mesosulfuron;;Urées;H;;;;;400852-66-6;;C16H19N5O9S2;0,1
+6824;N,N-Dimet-tolylsulphamid;DMST;;;;;;;66840-71-9;;C9H14N2O2S;0,1
+6853;Metolachlor OXA;Metolachlor OA;Chloroacétamide;H;;oui;2974/1221;metolachlore;152019-73-3;;C15H21NO4;0,1
+6854;Metolachlor ESA;Metolachlor ESA;Chloroacétamide;H;;oui;2974/1221;metolachlore;171118-09-5;;C15H23NO5S;0,1
+6855;Alachlor OXA;Alachlor OXA;Chloroacétamide;H;PNA;oui;1101;alachlore;171262-17-2;;C14H19NO4;0,1
+6856;Acetochlor ESA;t-sulfonic acid ;;;;oui;1903;Acétochlore;187022-11-3;;C14H21NO5S;0,1
+6862;Acetochlor OXA;t-oxanilic acid;;;;oui;1903;Acétochlore;194992-44-4;;C14H19NO4;0,1
+6863;Flufenacet oxalate;;Amides;H;PA;;;;201668-31-7;;;0,1
+6883;Acetochlor SAA;AcetoClSAA;Amides;H;;oui;1903;Acétochlore;;;C16-H23-N-O5-S;0,1
+6894;Metazachlor oxalic acid;;Chloroacétamide;H;PNA;oui;1670;metazachlore;1231244-60-2;;C14H15N3O3;0,1
+6895;Metazachlor sulfonic acid;;Chloroacétamide;H;PNA;oui;1670;metazachlore;172960-62-2;;C14H17SN3O4;0,1
+6942;2,4-D 2-Ethylhexyl ester;;Divers (organiques);H;PA;;;;1928-43-4;;;0,1
+1232;Parathion éthyl;Parathion éthyl;Organophosphorés;IA;PNA;;;;56-38-2;10/01/2002;C10H14NO5PS;0,1
+1233;Parathion méthyl;Parathion méthyl;Organophosphorés;I;PNA;;;;298-00-0;01/01/2004;C8H10NO5PS;0,1
+1766;(Code gelé en 1998 Total Parathion);Total Parathion;Organophosphorés;IA;SO;;;;Non renseigné;;;0,1
+6947;Parathion ethyl+methyl;Total Parathion;Organophosphorés;IA;SO;;;;;;;0,1
+6964;Propaphos;Propafos;Organophosphorés;I;;;;;7292-16-2;;;0,1
+6972;Dimethylvinphos;Dimethylvinphos;Organophosphorés;I;;;;;2274-67-1;;C10H10Cl3O4P;0,1
+7018;Chlorate de sodium;;Divers (organiques);H;PA;;;;7647-14-5;;;0,1
+7038;Butylate;;Carbamates;H;PNA;;;;2008-41-5;;;0,1
+7057;Pinoxaden;;Divers (organiques);H;PA;;;;243973-20-8;;;0,1
+7086;Tembotrione;;Divers (organiques);H;PA;;;;335104-84-2;;;0,1
+7087;Tritosulfuron;;Divers (organiques);H;PA;;;;335104-84-2;;;0,1
+7097;trans-Nonachlor;trans-Nonachlordane;Organochlorés;I;PNA;;;;39765-80-5;;C10H5Cl9;0,1
+7142;Dimepiperate;;Divers (organiques);H;;;;;61432-55-1;;;0,1
+7143;Mexacarbate;;Carbamates;I;;;;;315-18-4;;;0,1
+7147;Carpropamide;Carpropa;Amides;F;;;;;104030-54-8;;C15H18Cl3NO;0,1
+7148;Butocarboxime;Butocar;Carbamates et thiocarbamates;I;;;;;34681-10-2;;C7H14N2O2S;0,1
+7149;Phorate sulfone;Phorsul;Organophosphorés;;PNA;;1525;Phorate;  2588-04-7;;C7H17O4PS3;0,1
+7150;Terbuthylazine desethyl-2-hydroxy;Terbuthyl des hydroxy;Triazines et métabolites;H;PNA;oui;1268;Terbuthylazine;66753-06-8;;C7H13N5O;0,1
+7340;Pyroxsulam;kloquintocet-mexyl;Triazolopyrimidines sulfonamides;HG;;;;;422556-08-9;;;0,1
+7341;methyl isocyanate;metisocyan;Carbamates;HFNI;;oui;2088;metam sodium;624-83-9;;;0,1
+7342;Fluxapyroxade;;Divers (organiques);F;PA;;;;335104-84-2;;;0,1
+7345;Bixafen;;Divers (organiques);F;PA;;;;335104-84-2;;;0,1
+7422;Proquinazid;Proquinazid;Quinazolinones;F;PA;;;;189278-12-4;;C14H7IN2O2;0,1
+7442;Proximpham;Proximpham;Inconnu;H;;;;;2828-42-4;;C10H12N2O2;0,1
+7460;Benthiavalicarb-isopropyl;Benthiavalicarbe Isopropy;Carbamates;F;PA;;;;177406-68-7;;C18H24FN3O3S;0,1
+7482;Uniconazole;Uniconazole;Triazoles;F;PNA;;;;83657-22-1;;C15H18CLN3O;0,1
+7500;Chlorantraniliprole;Chlorantraniliprole;Amides;I;PA;;;;500008-45-7;;C18H14BrCl2N5O2;0,1
+7501;Allyxycarbe;Allyxycarbe;Carbamate;I;;;;;6392-46-7;;C16H22N2O2;0,1
+7502;Bufencarbe;Bufencarbe;Carbamates;I;PNA;;;;8065-36-9;;C13H19NO2;0,1
+7503;Cythioate;Cythioate;Organophosphorés;I;;;;;115-93-5;;C8H12NO5PS2;0,1
+7505;Karbutilate;Karbutilate;Carbamate;H;PNA;;;;4849-32-5;;C14H21N3O3;0,1
+7508;Ipoconazole;Ipoconazole;Azoles;F;PA;;;;125225-28-7;;C18H24ClN3O;0,1
+7510;Imibenconazole;Imibenconazole;Triazoles;F;PNA;;;;86598-92-7;;C17H13Cl3N4S;0,1
+7511;Tébupirimfos;Tébupirimfos;Organophosphorés;I;;;;;96182-53-5;;C13H23N2O3PS;0,1
+7512;thiocyclam hydrogen oxala;Thiocyclam-hydrogenoxalate;Inconnu;I;PNA;;;;31895-22-4;;C7H13NO4S3;0,1
+7514;Thiophanate-ethyl;;;F;PNA;;;;23564-06-9;;C14H18N4O4S2;0,1
+7515;Diphenylurée;Carbanilide;Urées;;;;;;102-07-8;;C13H12N2O;0,1
+7516;Amiprofos-methyl;;Organophosphorés;H;;;;;36001-88-4;;C11H17N2O4PS;0,1
+7517;Thiencarbazone-methyl;Thiencarbazone-methyl;Triazoles;H;PA;;;;317815-83-1;;C12H14N4O7S2;0,1
+7519;pethoxamide;;Chloroacetamide ;H;PA;;;;106700-29-2;;C16H22ClNO2;0,1
+7522;Beflubutamide;Beflubutamide;Amides;H;PA;;;;113614-08-7;;C18H17F4NO2;0,1
+7748;cyflufénamide;cyflufénamide;Amides;F;PA;;;;180409-60-3;;C20H17F5N2O2;0,1
+7782;Desméthyl-chlortoluron;Desméthyl-chlortoluron;;;PA;oui;1136;;22175-22-0;;C9H11ClN2O;0,1
+7999;Total Pyréthrénoides;Total Pyréthrénoides;Pyréthrinoïdes;;;;;;Non renseigné;;;0,1
+1151;Déméton-O-Méthyl;Déméton-O-Méthyl;Organophosphorés;I;PNA;;;;867-27-6;;C6H15O3PS2;0,1
+1153;Déméton-S-Méthyl;Déméton-S-Méthyl;Organophosphorés;IA;PNA;;;;919-86-8;;C6H15O3PS2;0,1
+11510;Total Déméthon méthyl;Total Déméthon méthyl;Organophosphorés;I;SO;;;;8022-00-2;;C12H30O6P2S4;0,1
+12098;Total Organochlorés;Total Organochlorés;Organochlorés;;;;;;Non renseigné;;;0,1
+12099;Total Organophosphorés;Total Organophosphorés;Organophosphorés;;;;;;Non renseigné;;;0,1
+12140;Pesticides Kit immuno enzimatique;Pesticides Kit immuno enzimatique;Indices;;;;;;Non renseigné;;;0,1
+1223;Méthoxychlore op';Méthoxychlore op';Organochlorés;I;PNA;;;;30667-99-3;;C16H15Cl3O2;0,1
+1224;(Code gelé en 2005 Méthoxychlore pp');Méthoxychlore pp';Organochlorés;I;;;;;72-43-5;;C16H15Cl3O2;0,1
+1511;Méthoxychlore;Méthoxychlore;Organochlorés;I;PNA;;;;72-43-5;;C16H15Cl3O2;0,1
+81511;Méthoxychlore op'+pp';;Organochlorés;I;SO;;;;;;;0,1
+99007;Bentazone-8-ydroxy;;Diazines;;;oui;1113;Bentazone;;;;0,1
+99011;Isoproturon-1CH3;;Urées;H;;;;;;;;0,1
+99012;Isoproturon-2CH3;;Urées;H;;;;;;;;0,1
+99020;2,4 D (sel de dimethylamine);;;;;;;;;;;0,1
+99024;Nonylphenol Polyethoxyle;;Composés phénoliques;;;;;;;;;0,1
+1143;DDD 24';DDD op';Organochlorés;I;;oui;1147;DDT op';53-19-0;;C14H10Cl4;0,1
+1144;DDD 44';DDD pp';Organochlorés;I;;oui;1148;DDT pp';72-54-8;;C14H10Cl4;0,1
+1145;DDE 24';DDE op';Organochlorés;I;;oui;1147;DDT op';3424-82-6;;C14H8Cl4;0,1
+1146;DDE 44';DDE pp';Organochlorés;I;;oui;1148;DDT pp';72-55-9;;C14H8Cl;0,1
+1147;DDT 24';DDT op';Organochlorés;I;PNA;;;;789-02-6;1987;C14H9Cl5;0,1
+1148;DDT 44';DDT pp';Organochlorés;I;PNA;;;;50-29-3;1987;C14H9Cl5;0,1
+1833;Haloxyfop-éthoxyéthyl;Haloxyfop-éthoxyéthyl;Divers (organiques);H;PNA;;;;87237-48-7;;C19H19ClF3NO5;0,1
+1909;Haloxyfop-méthyl-R;Haloxyfop-méthyl-R;Divers (organiques);H;PNA;;;;72619-32-0;12/15/2008;C16H13ClF3NO4;0,1
+2047;Haloxyfop;Haloxyfop;Divers (organiques);H;PNA;;;;69806-34-4;12/31/2003;C15H11ClF3NO4;0,1
+12235;Haloxyfop-éthoxyéthyl;Haloxyfop-éthoxyéthyl;Divers (organiques);H;;;;;87237-48-7;;C19H19ClF3NO5;0,1
+99002;Haloxyfop-(P-)méthyl;;Divers (organiques);H;PNA;;;;72619-32-0;;C16H13ClF3NO4;0,1
+1487;Dichloropropène-1,3;Dichloropropène-1,3;COHV, solvants chlorés, fréons;N;PNA;;;;542-75-6;;C3H4Cl2;20
+1834;Dichloropropène-1,3 cis;Dichloropropène-1,3 cis;COHV, solvants chlorés, fréons;B;PA;;;;10061-01-5;;C3H4Cl2;20
+1835;Dichloropropène-1,3 trans;Dichloropropène-1,3 trans;COHV, solvants chlorés, fréons;N;;;;;10061-02-6;;C3H4Cl2;20
+1776;(Code gelé en 2005 Acetate de triphenyletain);;Organométalliques;;;;;;;;;
+7783;Haloxyfop méthyl;HaloxyMeth;Divers (organiques);H;PNA;;;;69806-40-2;;C16H13ClF3NO4;
