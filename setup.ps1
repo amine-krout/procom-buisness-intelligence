@@ -152,10 +152,10 @@ New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName `
   -Force
 
 # Create Azure SQL Server and Serverless SQL Database
-# $serverName = "sqlserver-$suffix"
-# $databaseName = "sqldatabase-$suffix"
-$serverName = "sqlserver-procom"
-$databaseName = "sqldatabase-procom"
+$serverName = "sqlserver-$suffix"
+$databaseName = "sqldatabase-$suffix"
+# $serverName = "sqlserver-procom"
+# $databaseName = "sqldatabase-procom"
 
 Write-Host "Creating Azure SQL Server $serverName in $resourceGroupName resource group..."
 New-AzSqlServer -ResourceGroupName $resourceGroupName `
